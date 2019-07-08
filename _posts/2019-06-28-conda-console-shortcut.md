@@ -3,6 +3,7 @@ title: Shortcut Anaconda Prompt menghilang 😲
 tags: [python, anaconda, miniconda]
 style: border
 color: success
+description: Mengembalikan shortcut Anaconda Prompt
 ---
 
 Hari ini mau coba latihan dan belajar Python dari [video ini](https://www.youtube.com/watch?v=mUu_4k6a5-I). Eh, pas mau coba buka jupyter notebook, saya cari di shortcut windows gak nemu. Entah karena saya baru update conda atau apa, intinya saya kehilangan shortcut untuk windows. Untungnya saya bisa mengatasinya manual karena saya menggunakan conda environment di vscode. Coba cari masalah ini, nemu [isu ini](https://github.com/ContinuumIO/anaconda-issues/issues/8794) yang berbicara hilangnya shortcut Anaconda prompt. 

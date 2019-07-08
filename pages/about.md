@@ -12,15 +12,24 @@ atau biasa dipanggil dengan *‘Uma’*. Saya merupakan lulusan sarjana Teknik S
 
 ## Keahlian
 
-<div class="row">
-{% include about/skills.html title="Keahlian pemrograman" source=site.data.programming-skills %}
-{% include about/skills.html title="Keahlian lain" source=site.data.other-skills %}
-</div>
+| Keahlian    | Level                 |                                            |
+| ----------- | --------------------- | ------------------------------------------ |
+| Pemrograman | **Terbiasa**          | Python Markdown                            |
+|             |                       |                                            |
+|             | **Dasar**             | Latex HTML/CSS Matlab Fortran Pascal       |
+|             |                       | Liquid Jekyll VBA/Macro                    |
+|             | *(sedang dipelajari)* | Python                                     |
+|             |                       |                                            |
+| Python      | **Terbiasa**          | numpy pandas matplotlib                    |
+|             |                       | keras                                      |
+|             | **Dasar**             | sympy seaborn scikit-learn                 |
+|             |                       |                                            |
+|             | *(sedang dipelajari)* | numpy pandas keras                         |
+|             |                       |                                            |
+| Lain        | **Terbiasa**          | Microsoft Office (Excel, PowerPoint, Word) |
+|             |                       | Google Drive (Docs, Sheets)                |
+|             |                       | Google Colab                               |
 
-<p align="center" markdown="1">
-25% = Newbie, 50% = Familiar, 
-**test**
-</p>
 
 ## Pengalaman 
 

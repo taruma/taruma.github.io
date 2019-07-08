@@ -1,17 +1,20 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Learning How to Learn
+  mooc: Coursera
+  university: McMaster University & University of California San Diego
+  from: Jan 2017
+  to: Feb 2017
+  grade: 97.80%
+  certificate:
+  certificate_url: 
+  description: >-
+               Learning How to Learn: Powerful mental tools to help you master tough subjects
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Competitive Strategy
+  mooc: Coursera
+  university: Ludwig-Maximilians-Universität München (LMU)
+  from: Aug 2015
+  to: Sep 2015
+  grade: 96.50%
+  certificate:
+  certificate_url: 
+  description: 

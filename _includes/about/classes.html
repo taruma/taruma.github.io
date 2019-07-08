@@ -4,8 +4,17 @@
         <div class="timeline-item">
             <div class="content">
                 <h4>{{ item.title }}</h4>
+                <h6 class="date">{{ item.university }}, {{ item.mmoc }}</h6>
                 <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
                 <p>{{ item.description }}</p>
+                <p>
+                    {% if item.grade %}
+                    Grade: {{ item.grade }}
+                    {% endif %}
+                    {% if item.certificate %}
+                    Certificate: <a href="{{ item.certificate_url }}">{{ item.certificate }}</a>
+                    {% endif %}
+                </p>
             </div>
         </div>
         {% endfor %}

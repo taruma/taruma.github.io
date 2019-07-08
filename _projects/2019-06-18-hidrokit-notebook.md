@@ -1,7 +1,7 @@
 ---
 name: hidrokit notebook
 tools: [python, open-source, jupyter-notebook]
-image: 
+image: https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-800x200.jpg?raw=true
 description: Kumpulan jupyter notebook mengenai penggunaan hidrokit dan python dalam bidang hidrologi
-external_url: https://github.com/taruma/umakit
+external_url: https://taruma.github.io/hidrokit-nb
 ---

@@ -11,25 +11,25 @@ remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you a
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://bit.ly/2KCvgVJ
+  name              : Taruma Sakti Megariansyah
+  image             : images/my-profpic-2019.jpg
   # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : hi@taruma.info
   # facebook          : your_username
-  github            : your_username
+  github            : taruma
 # gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
+  instagram         : taruma
+  linkedin          : taruma
+  medium            : taruma
+  soundcloud        : taruma-sakti
+  spotify           : 12141012102
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : tarumainfo
 # vimeo             : your_username
-# youtube           : your_channel_name
+  youtube           : tarumainfo
 
 
 ### Pagination ###

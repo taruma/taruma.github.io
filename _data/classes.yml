@@ -1,5 +1,5 @@
 - title: "Machine Learning A-Z™: Hands-On Python & R In Data Science"
-  mooc: udemy
+  mooc: Udemy
   university: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience"
   from: 
   to: Apr 2019
@@ -8,7 +8,7 @@
   description:
 
 - title: "Python for Data Science and Machine Learning Bootcamp"
-  mooc: udemy
+  mooc: Udemy
   university: Jose Portilla
   from: 
   to: Oct 2018
@@ -88,15 +88,6 @@
   certificate_url: 
   description:
 
-- title: "Research Methods: An Engineering Approach (ELEN7070x)"
-  mooc: edX
-  university: The University of the Witwatersrand, Johannesburg
-  from: 
-  to: Feb 2018
-  grade: 98.00%
-  certificate_url: 
-  description:
-
 - title: Introduction to Python for Data Science (DAT208x)
   mooc: edX
   university: Microsoft
@@ -105,112 +96,3 @@
   grade: 97.00%
   certificate_url: 
   description:
-
-- title: First Step Korean
-  mooc: Coursera
-  university: Yonsei University
-  from: Feb 2017
-  to: Mar 2017
-  grade: 91.60%
-  certificate_url: 
-  description:
-
-- title: The Art of Negotiation
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 91.00%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/98TZUQMNUE42
-  description:
-
-- title: Fundamentals of Management
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 92.50%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/E8ZGHSHX39JN
-  description:
-
-- title: Effective Problem-Solving and Decision-Making
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 92.50%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/FCGHNW3N6GUJ
-  description:
-
-- title: Finance for Non-Financial Professionals
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 89.70%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/VBR87RTT4B6L
-  description:
-
-- title: High-Impact Business Writing
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 91.90%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/P83WUBLSBTYF
-  description:
-
-
-- title: "Project Management: The Basics for Success"
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 95.80%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/CY5C6WLK4EHU
-  description:
-
-- title: "Essentials of Entrepreneurship: Thinking & Action"
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 95.80%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/7NURW5L4UHB3
-  description:
-
-- title: Communication in the 21st Century Workplace
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 85.00%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/52WU356KJTDW
-  description:
-
-- title: "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity"
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 96.40%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/RDTYZMWSK7EZ
-  description: 
-               
-- title: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
-  mooc: Coursera
-  university: McMaster University & University of California San Diego
-  from: Jan 2017
-  to: Feb 2017
-  grade: 97.80%
-  certificate_url: 
-  description:
-
-- title: Competitive Strategy
-  mooc: Coursera
-  university: Ludwig-Maximilians-Universität München (LMU)
-  from: Aug 2015
-  to: Sep 2015
-  grade: 96.50%
-  certificate_url: 
-  description: 

@@ -69,7 +69,7 @@ Jika Anda pernah mengembangkan script/program python dan bersedia untuk membagik
 
 Saat ini membaca dari excel lebih mudah dibandingkan dari PDF. Membaca data pdf sebenarnya dimungkinkan (saya sudah pernah coba), akan tetapi dengan keragaman jenis-jenis pdf yang saya peroleh membuat pengembangan untuk membaca dari PDF sulit. Bagi yang ingin mencoba mengembangkan membaca data dari PDF, saya cukup berhasil menggunakan library `tabula-py` dan `camelot`.  
 
----=
+----
 
 #### Hidrologi
 

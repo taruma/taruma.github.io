@@ -5,10 +5,10 @@ permalink: /tentang/
 weight: 3
 ---
 
-# **Tentang saya**
-
 Halo nama saya **{{ site.author.name }}**,<br>
-atau biasa dipanggil dengan *‘Uma’*. Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman. 
+atau biasa dipanggil dengan *‘Uma’*. Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman dan kuliah/kursus/kelas online yang berhubungan dengan python, _data science_.
+
+## Keahlian
 
 | Keahlian        | Level                 |                                            |
 | --------------- | --------------------- | ------------------------------------------ |
@@ -31,7 +31,9 @@ atau biasa dipanggil dengan *‘Uma’*. Di halaman ini Anda bisa mengetahui pen
 |                 | **Dasar**             | YAML Jekyll Liquid HTML/CSS                |
 
 
-## Kelas/Kuliah Online 
+## Kursus/Kelas
+
+Berikut kelas/kursus/kuliah online yang telah saya ambil dan selesaikan.
 
 <div class="row">
 {% include about/classes.html %}

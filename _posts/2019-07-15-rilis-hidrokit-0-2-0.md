@@ -89,7 +89,8 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 -----
 ## Situs hidrokit
 
-{% include elements/figure.html image="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" caption="Hidrokit Notebook." %}
+ <img src="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" alt="Logo Hidrokit">
+{% include elements/figure.html image=" caption="Hidrokit Notebook." %}
 
 <p class="text-center">
 {% include elements/button.html link="https://taruma.github.io/hidrokit" text="Situs" size="sm"%}

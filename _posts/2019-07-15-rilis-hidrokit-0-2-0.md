@@ -24,7 +24,7 @@ Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berk
 
 ## Apa yang baru di hidrokit 0.2.0?
 
-Pada hidrokit 0.2.0, proses pengembangan python diusahakan untuk mengikuti standar yang ada dimulai dari _packaging_, _versioning_, _testing_, dan _continous integration_. Hal tersebut mengakibatkan hidrokit 0.2.0 tidak _backward-compatibility_ dengan hidrokit 0.1.x. Diharapkan dengan struktur sekarang, hidrokit 0.2.0 memiliki kapasitas untuk _forward-compatibility_ dan memudahkan bagi _developer_ mengembangkan fitur baru atau memperbaiki fitur.
+Pada hidrokit 0.2.0, pengembangan python diusahakan untuk mengikuti standar yang ada dimulai dari _packaging_, _versioning_, _testing_, dan _continous integration_. Hal tersebut mengakibatkan hidrokit 0.2.0 tidak _backward-compatibility_ dengan hidrokit 0.1.x. Diharapkan dengan struktur sekarang, hidrokit 0.2.0 memiliki kapasitas untuk _forward-compatibility_ dan memudahkan bagi _developer_ mengembangkan fitur baru atau memperbaiki fitur.
 
 Dengan rilisnya hidrokit 0.2.0, diperkenalkan **tiga** situs utama yang berhubungan dengan proyek ini. 
 - [hidrokit.online]\: Situs resmi proyek hidrokit yang berisikan dokumentasi berupa tentang hidrokit (tujuan/abstrak), tutorial/panduan berkontribusi, dll. 
@@ -175,20 +175,20 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 #### Siapa dibalik proyek hidrokit?
 
-> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. 
+> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅.
 
 #### Apakah proyek ini bagian dari tugas/kerjaan?
 
 > Proyek hidrokit, _murni_ merupakan **proyek hobi** dan **pribadi**. 
 > 
 > **Proyek ini bukan**:
-> - Bagian dari pekerjaan (yang tidak saya miliki. 😜)
+> - Bagian dari pekerjaan (yang tidak saya miliki. 😉)
 > - Menyelesaikan kewajiban akademis (tugas akhir/tesis)
 > - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
 #### Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?
 
-> Pertama-tama, hidrokit bukan merupakan program instan yang tinggal memasukkan _input data_ kemudian langsung memperoleh _output data_ atau laporan. Sehingga tidak bisa "segera" diuntungkan saat beralih ke penggunaan hidrokit/python.
+> hidrokit **bukan** program yang berfungsi memasukkan _input data_ kemudian langsung memperoleh _output data_ atau laporan. Sehingga tidak bisa "segera" diuntungkan saat beralih ke penggunaan hidrokit/python.
 > 
 > Jika Anda telah menggunakan python dan jupyter notebook pada alur kerja Anda, kemungkinan paket hidrokit bisa mempersingkat/mempercepat alur kerja tersebut. Jadi, sebelum menggunakan hidrokit, **diasumsikan sudah terbiasa** menggunakan python dan jupyter notebook. 
 > 
@@ -196,7 +196,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > Proyek ini hanya **memperkenalkan** python + jupyter notebook pada umumnya, dan bukan memaksakan untuk beralih dari _spreadsheet_. Pandangan pribadi saya adalah lebih praktis dan intuitif menggunakan python + jupyter notebook + hidrokit dibandingkan menggunakan _spreadsheet_. 
 > 
-> Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak proyek ini.
+> Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak positif/negatif proyek ini.
 
 #### Lalu apa alasan dibuatnya hidrokit?
 
@@ -212,6 +212,9 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 Pada versi hidrokit 0.1.0, saya sempat membuat halaman khusus mengenai tanya jawab mengenai proyek ini pada umumnya. Anda bisa membacanya [disini](https://taruma.online/articles/tanya-jawab-hidrokit). 
 
+-----
+
+Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di hi@taruma.info (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 
 <!-- LINK -->
 [hidrokit]: https://taruma.github.io/hidrokit

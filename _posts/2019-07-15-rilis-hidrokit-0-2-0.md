@@ -120,7 +120,7 @@ Berikut halaman penting yang tersedia pada situs hidrokit:
 -----
 ## Situs Hidrokit Notebook
 
-{% include elements/figure.html image="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" caption="Hidrokit Notebook." %}
+<img src="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="Logo Hidrokit Notebook">
 
 
 <p class="text-center">

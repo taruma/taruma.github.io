@@ -228,13 +228,15 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > Jika ada ide/isu pada proyek ini, saya akan coba membalasnya dan mengatasinya meski tidak bisa janji atau respon cepat. 
 
-#### Saya baru belajar python / tidak tahu mengenai hidrologi, bagaimana saya bisa berkontribusi?
+#### Saya bukan orang bidang hidrologi/python, bagaimana saya bisa berkontribusi?
 
 > Jujur, saya juga bukan ahli atau tahu banyak mengenai kedua bidang tersebut. Saya belum pernah bekerja pada kedua bidang tersebut, jadi saya bisa dibilang masih awam. Satu saya peroleh dari jalur akademis, satunya lagi karena jalur hobi dengan modal internet. 
 > 
-> Menurut saya, hidrologi memiliki konsep yang mudah ditangkap bagi kebanyakan orang karena bisa diobservasi dengan mudah. Curah hujan yang turun, ke permukaan, mengalir, menguap, dll. Akan tetapi bisa menjadi sangat kompleks ketika memulai berbicara interaksi siklus tersebut dengan detail. Jadi, jangan takut gara-gara Anda tidak memiliki latar belakang tersebut. Tanyakan saja kepada komunitas. Bisa jadi setelah Anda bergabung di proyek ini, Anda tertarik mengambil bidang sumberdaya air di teknik sipil. 😉
+> Menurut saya, hidrologi memiliki konsep yang mudah ditangkap bagi kebanyakan orang karena bisa diobservasi dengan mudah. Curah hujan yang turun, ke permukaan, mengalir, menguap, dll. Akan tetapi bisa menjadi sangat kompleks ketika memulai berbicara interaksi proses tersebut dengan detail. Jadi, jangan takut gara-gara Anda tidak memiliki latar belakang tersebut. Tanyakan saja kepada komunitas. Bisa jadi setelah Anda bergabung di proyek ini, Anda tertarik mengambil bidang sumberdaya air di teknik sipil. 😉
 > 
-> Proyek ini bersifat inklusif, jadi jangan takut karena "saya bukan orang komputer / teknik sipil / hidrologi / praktisi". Di akhir hari, akan ada orang yang menambah wawasan baru dari orang lain yang memiliki latar belakang berbeda. 
+> Untuk python, saya juga terhitung baru belajar. Ini merupakan proyek "besar" pertama saya dan kelihatan bahwa saya masih mencari tahu python itu sendiri. Proyek ini bisa jadi kesempatan untuk belajar bersama. 
+> 
+> Proyek ini bersifat inklusif, jadi jangan ragu berkontribusi karena "saya bukan orang komputer / teknik sipil / hidrologi / praktisi / apapun itu".
 
 Pada versi hidrokit 0.1.0, saya sempat membuat halaman khusus mengenai tanya jawab mengenai proyek ini pada umumnya. Anda bisa membacanya [disini](https://taruma.online/articles/tanya-jawab-hidrokit). 
 

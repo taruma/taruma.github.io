@@ -56,7 +56,7 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 - Fungsi pada modul berikut digantikan dengan modul baru dibawah subpaket baru.
 
 | Modul di 0.1.x  | 0.2.0 |
-| :-: | :-: |
+| :-- | :-- |
 | `dlkit` | `prep.timeseries` dan `viz.graph` |
 | `viewkit` | `viz.table` |
 | `prepkit` | `prep.excel` |

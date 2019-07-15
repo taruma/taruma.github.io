@@ -141,7 +141,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > **Proyek ini bukan**:
 > - Bagian dari pekerjaan (yang tidak saya miliki. 🤣)
 > - Menyelesaikan kewajiban akademis (tugas akhir/tesis)
-> - Permintaan dari perusahaan/konsultan/praktisi/akademisi/orang. 
+> - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
 #### Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?
 

@@ -55,6 +55,7 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 - Perubahan nama fungsi agar lebih jelas dan mengubah fungsi yang bukan ditujukan untuk penggunaan menjadi _private function_.
   - Seluruh fungsi pada `prepkit` yang berfungsi membaca berkas _excel_, untuk sementara menjadi _private function_.
   - Perubahan nama fungsi pada `dlkit` dan `datakit`.
+
 | 0.1.x                             | 0.2.0                            |
 | :-------------------------------- | :------------------------------- |
 | `dlkit.plot_dataset`              | `viz.graph.subplots`             |

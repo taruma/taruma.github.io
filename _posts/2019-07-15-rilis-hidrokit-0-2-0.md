@@ -10,15 +10,15 @@ description: Rilisnya hidrokit 0.2.0 disertai situs resminya. Penjelasan mengena
 
 ## Pengenalan
 
-Hidrokit merupakan proyek _open-source_ paket/_package_ python yang dapat digunakan untuk membantu proses analisis hidrologi berupa pengolahan data, analisis data, dan visualiasi data. Proyek ini cocok bagi yang tertarik untuk ikut serta dalam proyek _open-source_. Hidrokit juga bertujuan membangun komunitas pengguna python (dan jupyter notebook) dan para praktisi atau akademisi yang memanfaatkan python dalam bidang hidrologi.  
+Hidrokit merupakan proyek _open-source_ paket/_package_ python yang dapat digunakan untuk membantu proses analisis hidrologi berupa pengolahan data, analisis data, dan visualiasi data. Saat ini, proyek ini masih **dalam tahap pengembangan**, sehingga untuk penggunaan praktis belum memadai. Proyek ini cocok bagi yang tertarik untuk ikut serta dalam proyek _open-source_ karena masih dalam tahap awal pengembangan. Dengan proyek ini, hidrokit juga bertujuan membangun komunitas pengguna python (jupyter notebook) dan para praktisi atau akademisi yang memanfaatkan python dalam bidang hidrologi.  
 
 Baca [abstrak dan tujuan hidrokit](https://taruma.github.io/hidrokit/tentang-hidrokit) untuk informasi lebih lanjut.
 
-Jika ingin langsung melihat kegunaan hidrokit bisa lihat daftar notebook berikut:
-- [Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma.](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb) (demonstrasi modul `prep.timeseries`, `prep.read`, `viz.table`, `viz.graph`)
-- [Daftar tutorial fungsi/modul pada hidrokit.](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-)
+Jika ingin langsung melihat kegunaan hidrokit (python dan jupyter notebook) bisa lihat daftar notebook berikut:
+- Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma. [Lihat di NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb).
+- Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di [halaman ini](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-).
 
-Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#Berkontribusi).
+Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi).
 
 -----
 
@@ -29,7 +29,7 @@ Pada hidrokit 0.2.0, proses pengembangan python diusahakan untuk mengikuti stand
 Dengan rilisnya hidrokit 0.2.0, diperkenalkan **tiga** situs utama yang berhubungan dengan proyek ini. 
 - [hidrokit.online]\: Situs resmi proyek hidrokit yang berisikan dokumentasi berupa tentang hidrokit (tujuan/abstrak), tutorial/panduan berkontribusi, dll. 
 - [notebook.hidrokit.online]\: Situs pelengkap yang berisikan kumpulan jupyter notebook mengenai penggunaan hidrokit dan pemanfaatan python dalam bidang hidrologi.
-- [hidrokit.readthedocs.io]\: Situs berbahasa inggris yang digunakan sebagai dokumentasi teknis berisikan daftar lengkap _Application Program Interface_ (API) yang tersedia di proyek hidrokit. Situs ini ditujukan untuk pengembang / _developer_.
+- [hidrokit.readthedocs.io]\: Situs berbahasa inggris yang digunakan sebagai dokumentasi teknis berisikan daftar lengkap _Application Programming Interface_ (API) yang tersedia di proyek hidrokit. Situs ini ditujukan untuk pengembang / _developer_.
 
 Dibuatnya situs agar memudahkan akses informasi melalui berbagai media (komputer, telepon genggam). Navigasi dan tampilan pada situs juga lebih mudah dibandingkan melalui halaman github karena halaman github lebih ditujukan untuk _developer_. 
 
@@ -147,7 +147,26 @@ Berikut halaman penting yang tersedia pada situs Hidrokit Notebook:
 -----
 ## Berkontribusi
 
-Seluruh yang disebutkan pada proyek ini berupa paket python hidrokit, situs hidrokit, situs Hidrokit Notebook, situs readthedocs bersifat _open-source_ sehingga Anda bisa mengajukan perubahan, berkontribusi, atau bahkan Anda bisa mengembangkannya sebagai proyek Anda sendiri. Karena seluruh proyek ini menggunakan [**MIT License**](https://choosealicense.com/licenses/mit/) dan [**Creative Common Attribution 4.0 International**](https://choosealicense.com/licenses/cc-by-4.0/) kecuali disebutkan secara terpisah seperti pada [notebook](https://notebook.hidrokit.online/panduan/lisensi-notebook).
+Seluruh yang disebutkan pada proyek ini berupa paket python hidrokit, situs hidrokit, situs Hidrokit Notebook, situs readthedocs bersifat _open-source_ sehingga Anda bisa mengajukan perubahan, berkontribusi, atau bahkan Anda bisa mengembangkannya sebagai proyek Anda sendiri. Karena seluruh proyek ini menggunakan [**MIT License**](https://choosealicense.com/licenses/mit/) dan [**CC-BY-4.0**](https://choosealicense.com/licenses/cc-by-4.0/) kecuali disebutkan secara terpisah seperti pada [notebook](https://notebook.hidrokit.online/panduan/lisensi-notebook).
+
+Panduan umum untuk berkontribusi dapat dibaca pada halaman [berkontribusi](https://hidrokit.online/berkontribusi).
+
+Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman [how to contribute](https://opensource.guide/how-to-contribute/), Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. 
+
+- Jika Anda seorang **_praktisi/akademisi di bidang hidrologi_**, Anda bisa menyampaikan ide/fitur yang cocok disertakan di proyek ini, berdiskusi tentang impelementasi pada python, dll.
+- Jika Anda tetarik pada pengembangan **_web_**, Anda bisa memberikan ide desain situs, menyarankan tema yang sesuai, mengembangkan tema Jekyll yang sesuai dengan proyek ini, bereksperimen dengan Jekyll dan Github Pages. Ada dua situs yaitu [hidrokit] dan [hidrokit-notebook], jadi ada wadah bereksperimen atau berkontribusi pada proyek ini bagi yang tertarik. 
+- Jika Anda tertarik pada pengembangan **_python_**, Anda bisa mengevaluasi implementasi kode, menerapkan fitur, _refactoring_ kode, dll.
+- Jika Anda tertarik pada **dokumentasi**, Anda bisa menyunting penulisan situs, memperbaiki penulisan agar lebih jelas, menerjemahkan, dll.
+- Jika Anda tertarik pada **memperkenalkan/pengajaran**, Anda bisa membuat tutorial dengan python/jupyter notebook dan mengunggahnya di [hidrokit-notebook].
+- Jika Anda **memiliki kode python** yang cocok dengan proyek ini, Anda bisa menguploadnya pada github Anda dan menyarankan untuk diimplementasikan dalam proyek ini.
+- Jika Anda tertarik **merancang** logo, jangan ragu untuk menyampaikannya di proyek ini. 
+- Jika Anda tertarik pada aspek **komunitas**, Anda bisa mengajak acara _meet-up_ komunitas hidrokit.
+- Jika Anda menyukai **mengorganisir**, Anda bisa membantu mengorganisasikan isu/diskusi di github.
+- Jika Anda **baru belajar**/mengenal python/jupyter/proyek ini, Anda bisa bertanya, berdiskusi, dan berbagi pengalaman Anda di proyek ini.
+- Jika Anda **memiliki pengalaman** terkait proyek ini, Anda bisa berbagi pengalaman Anda.
+- Jika Anda **hanya menggunakan** proyek/situs ini, Anda juga bisa berkontribusi dengan melaporkan kerusakan/kekeliruan/koreksi. 
+
+Intinya, kalau ada ide jangan dibiarkan terbang, buat isu/diskusi di github [sekarang juga](https://github.com/taruma/hidrokit/issues/new/choose).
 
 -----
 ## Frequently Asked Questions
@@ -175,7 +194,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > Bagi yang belum tahu python dan jupyter notebook, proyek ini memperkenalkan keuntungan hal tersebut dan membantu Anda memulai petualangan tersebut. Saat tulisan ini dipublikasi, belum ada halaman panduannya, tapi jika Anda membutuhkan bantuan, buat isu/diskusi [disini](https://github.com/taruma/hidrokit/issues/new/choose).
 > 
-> Pandangan pribadi saya adalah lebih praktis dan intuitif menggunakan python + jupyter notebook + hidrokit dibandingkan menggunakan spreadsheet excel. 
+> Proyek ini hanya **memperkenalkan** python + jupyter notebook pada umumnya, dan bukan memaksakan untuk beralih dari _spreadsheet_. Pandangan pribadi saya adalah lebih praktis dan intuitif menggunakan python + jupyter notebook + hidrokit dibandingkan menggunakan _spreadsheet_. 
 > 
 > Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak proyek ini.
 

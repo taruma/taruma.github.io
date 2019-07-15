@@ -89,6 +89,8 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 -----
 ## Situs hidrokit
 
+{% include elements/figure.html image="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" caption="Hidrokit Notebook." %}
+
 <p class="text-center">
 {% include elements/button.html link="https://taruma.github.io/hidrokit" text="Situs" size="sm"%}
 {% include elements/button.html link="https://github.com/taruma/hidrokit/tree/gh-pages" text="Repository" size="sm"%}
@@ -117,6 +119,9 @@ Berikut halaman penting yang tersedia pada situs hidrokit:
 
 -----
 ## Situs Hidrokit Notebook
+
+{% include elements/figure.html image="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" caption="Hidrokit Notebook." %}
+
 
 <p class="text-center">
 {% include elements/button.html link="https://taruma.github.io/hidrokit-nb" text="Situs" size="sm"%}
@@ -175,7 +180,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 #### Siapa dibalik proyek hidrokit?
 
-> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅.
+> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅. Saya jauh dari ahli pada bidang hidrologi ataupun python, saya cukup awam di kedua bidang tersebut sebenarnya. 
 
 #### Apakah proyek ini bagian dari tugas/kerjaan?
 
@@ -183,7 +188,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > **Proyek ini bukan**:
 > - Bagian dari pekerjaan (yang tidak saya miliki. 😉)
-> - Menyelesaikan kewajiban akademis (tugas akhir/tesis)
+> - Untuk menyelesaikan kewajiban akademis (tugas akhir/tesis)
 > - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
 #### Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?
@@ -200,7 +205,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 #### Lalu apa alasan dibuatnya hidrokit?
 
-> Sejak dari dulu saya memiliki ketertarikan pada bidang komputer dan teknologi. Tahun 2016, saya membaca artikel mengenai _data science_ dan _machine learning_. Dan pada momen itu, saya berniat untuk mempelajarinya. 
+> Sejak dari dulu saya memiliki ketertarikan pada bidang komputer dan teknologi. Tahun 2016, saya membaca artikel mengenai _data science_ dan _machine learning_. Dan pada momen itu, saya berniat untuk mempelajarinya. Saya memulai mempelajari python dari tahun 2017. 
 > 
 > Pada perjalanan belajar tersebut, disarankan untuk melatih pada proyek open-source. Sayangnya, dengan kemampuan bahasa inggris yang terbatas, saya kesulitan untuk ikut serta dalam proyek open-source yang ada. Terlebih lagi, saya bukan lulusan pada bidang komputer/informatika sehingga membaca istilah yang digunakan jadi pusing sendiri. 
 > 
@@ -209,6 +214,14 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > Tidak lupa bahwa saya merupakan lulusan teknik sipil yang mengambil KBI Sumberdaya Air, saya menggabungkan disiplin tersebut dengan hasil yang saya pelajari mengenai python dan *data science*. Dan dibuatlah proyek hidrokit. 🎊
 > 
 > Dan dari alasan pribadi diatas berkembang menjadi [abstrak dan tujuan hidrokit](https://hidrokit.online/tentang-hidrokit).
+
+#### Kenapa belum ada fitur baru dari hidrokit 0.1.x atau fitur yang fungsional?
+
+> Tiga bulan terakhir saya memastikan bahwa proyek hidrokit bersifat _future-compatibility_, sehingga selama tiga bulan terakhir ini saya lebih disibukkan memastikan apa yang saya buat sudah mematuhi _guideline_. Saya juga disibukkan dengan mempersiapkan situs hidrokit dan memisahkan _notebook_ ke repository yang terpisah. Hal tersebut belum ditambah kemampuan saya dalam python ataupun pengembangan situs. Selama tiga bulan juga diisi dengan menonton/membaca dokumentasi/tutorial mengenai cara penulisan python, penulis docstring, dll. Selain itu, saya juga disibukkan dengan mempelajari mempublikasikan situs dengan Jekyll melalui Github Pages yang merupakan pengalaman pertama saya sama sekali menyentuh Jekyll.
+> 
+> Dokumentasi juga menjadi beban tersendiri. Menulis panduan/tutorial, halaman depan, menulis ulang "hidrokit adalah ...." bisa lebih dari 30 kali. Setiap besoknya, selalu ada saja yang bisa diperbaiki agar lebih baik untuk mudah di baca atau jelas. Anda bisa melihatnya dari _commit_ yang saya buat. 😅😅
+> 
+> Jadi, maaf kalau tidak begitu banyak fitur baru di hidrokit 0.2.0. Karena saya sendiri masih awam di dunia python ataupun _open-source_. 🙇‍♀️🙇‍♂️. Semoga di 0.3.0 setidaknya saya sudah menambahkan fitur baru, terutama untuk analisis. Dan diharapkan juga saya sudah mulai menguasai memanfaatkan OOP. 
 
 Pada versi hidrokit 0.1.0, saya sempat membuat halaman khusus mengenai tanya jawab mengenai proyek ini pada umumnya. Anda bisa membacanya [disini](https://taruma.online/articles/tanya-jawab-hidrokit). 
 

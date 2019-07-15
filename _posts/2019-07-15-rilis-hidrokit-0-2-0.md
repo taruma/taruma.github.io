@@ -33,9 +33,16 @@ Dengan rilisnya hidrokit 0.2.0, diperkenalkan **tiga** situs utama yang berhubun
 
 Dibuatnya situs agar memudahkan akses informasi melalui berbagai media (komputer, telepon genggam). Navigasi dan tampilan pada situs juga lebih mudah dibandingkan melalui halaman github karena halaman github lebih ditujukan untuk _developer_. 
 
-Berikut perubahan penting pada proyek ini:
+<div align="center" markdown="1">
+**Berikut daftar perubahan di hidrokit 0.2.0**
+</div>
 
-### hidrokit 0.2.0 (_Python Package_)
+-----
+## hidrokit 0.2.0
+
+<p class="text-center">
+{% include elements/button.html link="https://github.com/taruma/hidrokit" text="Repository" size="sm"%}
+</p>
 
 Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan lebih mudah untuk dikembangkan lebih lanjut.  Berikut perubahan penting hidrokit 0.1.x ke 0.2.0:
 
@@ -48,15 +55,19 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 **Perubahan**
 - Penamaan modul dan fungsi diubah dan disesuaikan dengan [standar PEP8](https://www.python.org/dev/peps/pep-0008/).
 - Fungsi pada modul berikut digantikan dengan modul baru dibawah subpaket baru.
-  - Fungsi pada `dlkit` dialihkan ke `prep.timeseries`.
-  - Fungsi pada `viewkit` dialihkan ke `viz.table` dan `viz.graph`.
-  - Fungsi pada `prepkit` dialihkan ke `prep.excel`.
-  - Fungsi pada `datakit` dialihkan ke `prep.read`.
+
+| Modul di 0.1.x  | 0.2.0 |
+| :-: | :-: |
+| `dlkit` | `prep.timeseries` dan `viz.graph` |
+| `viewkit` | `viz.table` |
+| `prepkit` | `prep.excel` |
+| `datakit` | `prep.read` |
+
 - Perubahan nama fungsi agar lebih jelas dan mengubah fungsi yang bukan ditujukan untuk penggunaan menjadi _private function_.
   - Seluruh fungsi pada `prepkit` yang berfungsi membaca berkas _excel_, untuk sementara menjadi _private function_.
   - Perubahan nama fungsi pada `dlkit` dan `datakit`.
 
-| 0.1.x                             | 0.2.0                            |
+| Nama Fungsi di 0.1.x  | 0.2.0 |
 | :-------------------------------- | :------------------------------- |
 | `dlkit.plot_dataset`              | `viz.graph.subplots`             |
 | `datakit.dict_null_data`          | `prep.read.missing_row`          |
@@ -75,7 +86,13 @@ Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan 
 [codacy]: https://app.codacy.com/project/taruma/hidrokit/dashboard
 [pytest]: https://pytest.org/
 
-### Situs hidrokit ([hidrokit.online])
+-----
+## Situs hidrokit
+
+<p class="text-center">
+{% include elements/button.html link="https://taruma.github.io/hidrokit" text="Situs" size="sm"%}
+{% include elements/button.html link="https://github.com/taruma/hidrokit/tree/gh-pages" text="Repository" size="sm"%}
+</p>
 
 Situs hidrokit digunakan sebagai situs utama untuk memperoleh informasi mengenai proyek ini. Situs ini dibuat menggunakan [Jekyll](https://jekyllrb.com/) dan [Github Pages](https://pages.github.com/) _hosting_. _Repository_ situs dapat diakses di [cabang gh-pages](https://github.com/taruma/hidrokit/tree/gh-pages).
 
@@ -98,7 +115,13 @@ Berikut halaman penting yang tersedia pada situs hidrokit:
 [penggunaan]: https://hidrokit.online/panduan/penggunaan
 [sumber]: https://hidrokit.online/serbaneka/sumber
 
-### Situs Hidrokit Notebook ([notebook.hidrokit.online])
+-----
+## Situs Hidrokit Notebook
+
+<p class="text-center">
+{% include elements/button.html link="https://taruma.github.io/hidrokit-nb" text="Situs" size="sm"%}
+{% include elements/button.html link="https://github.com/taruma/hidrokit-nb/tree/master/docs" text="Repository" size="sm"%}
+</p>
 
 Situs Hidrokit digunakan sebagai situs pelengkap yang berisikan kumpulan jupyter notebook mengenai penggunaan hidrokit dan pemanfaatan python dalam bidang hidrologi. Situs ini dibuat menggunakan [Jekyll](https://jekyllrb.com/) dan [Github Pages](https://pages.github.com/) _hosting_. _Repository_ situs dapat diakses di [hidrokit-nb](https://github.com/taruma/hidrokit-nb/tree/master/docs).
 
@@ -133,26 +156,28 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 #### Siapa dibalik proyek hidrokit?
 
-> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Sebagai informasi, saya belum memiliki pengalaman kerja pada bidang hidrologi ataupun _python/data science_.
+> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. 
 
 #### Apakah proyek ini bagian dari tugas/kerjaan?
 
 > Proyek hidrokit, _murni_ merupakan **proyek hobi** dan **pribadi**. 
 > 
 > **Proyek ini bukan**:
-> - Bagian dari pekerjaan (yang tidak saya miliki. 🤣)
+> - Bagian dari pekerjaan (yang tidak saya miliki. 😜)
 > - Menyelesaikan kewajiban akademis (tugas akhir/tesis)
 > - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
 #### Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?
 
-> Pertama-tama, hidrokit bukan merupakan program instan yang tinggal memasukkan _input data_ kemudian langsung memperoleh _output data_ atua laporan. Sehingga tidak bisa "segera" diuntungkan saat beralih ke penggunaan hidrokit/python.
+> Pertama-tama, hidrokit bukan merupakan program instan yang tinggal memasukkan _input data_ kemudian langsung memperoleh _output data_ atau laporan. Sehingga tidak bisa "segera" diuntungkan saat beralih ke penggunaan hidrokit/python.
 > 
 > Jika Anda telah menggunakan python dan jupyter notebook pada alur kerja Anda, kemungkinan paket hidrokit bisa mempersingkat/mempercepat alur kerja tersebut. Jadi, sebelum menggunakan hidrokit, **diasumsikan sudah terbiasa** menggunakan python dan jupyter notebook. 
 > 
 > Bagi yang belum tahu python dan jupyter notebook, proyek ini memperkenalkan keuntungan hal tersebut dan membantu Anda memulai petualangan tersebut. Saat tulisan ini dipublikasi, belum ada halaman panduannya, tapi jika Anda membutuhkan bantuan, buat isu/diskusi [disini](https://github.com/taruma/hidrokit/issues/new/choose).
 > 
 > Pandangan pribadi saya adalah lebih praktis dan intuitif menggunakan python + jupyter notebook + hidrokit dibandingkan menggunakan spreadsheet excel. 
+> 
+> Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak proyek ini.
 
 #### Lalu apa alasan dibuatnya hidrokit?
 

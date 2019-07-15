@@ -10,7 +10,7 @@ description: Rilisnya hidrokit 0.2.0 disertai situs resminya. Penjelasan mengena
 
 ## Pengenalan
 
-Hidrokit merupakan proyek _open-source_ paket/_package_ python yang dapat digunakan untuk membantu proses analisis hidrologi berupa pengolahan data, analisis data, dan visualiasi data. Saat ini, proyek ini masih **dalam tahap pengembangan**, sehingga untuk penggunaan praktis belum memadai. Proyek ini cocok bagi yang tertarik untuk ikut serta dalam proyek _open-source_ karena masih dalam tahap awal pengembangan. Dengan proyek ini, hidrokit juga bertujuan membangun komunitas pengguna python (jupyter notebook) dan para praktisi atau akademisi yang memanfaatkan python dalam bidang hidrologi.  
+Hidrokit merupakan proyek _open-source_ paket/_package_ python yang dapat digunakan untuk membantu proses analisis hidrologi berupa pengolahan data, analisis data, dan visualisasi data. Saat ini, proyek ini masih **dalam tahap pengembangan**, sehingga untuk penggunaan praktis belum memadai. Proyek ini cocok bagi yang tertarik untuk ikut serta dalam proyek _open-source_ karena masih dalam tahap awal pengembangan. Dengan proyek ini, hidrokit juga bertujuan membangun komunitas pengguna python (jupyter notebook) dan para praktisi atau akademisi yang memanfaatkan python dalam bidang hidrologi.  
 
 Baca [abstrak dan tujuan hidrokit](https://taruma.github.io/hidrokit/tentang-hidrokit) untuk informasi lebih lanjut.
 
@@ -18,10 +18,9 @@ Jika ingin langsung melihat kegunaan hidrokit (python dan jupyter notebook) bisa
 - Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma. [Lihat di NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb).
 - Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di [halaman ini](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-).
 
-Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi).
+Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi). Proyek ini terbuka untuk berbagai latar belakang dan tingkat keahlian. 
 
 -----
-
 ## Apa yang baru di hidrokit 0.2.0?
 
 Pada hidrokit 0.2.0, pengembangan python diusahakan untuk mengikuti standar yang ada dimulai dari _packaging_, _versioning_, _testing_, dan _continous integration_. Hal tersebut mengakibatkan hidrokit 0.2.0 tidak _backward-compatibility_ dengan hidrokit 0.1.x. Diharapkan dengan struktur sekarang, hidrokit 0.2.0 memiliki kapasitas untuk _forward-compatibility_ dan memudahkan bagi _developer_ mengembangkan fitur baru atau memperbaiki fitur.
@@ -180,14 +179,14 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 #### Siapa dibalik proyek hidrokit?
 
-> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅. Saya jauh dari ahli pada bidang hidrologi ataupun python, saya cukup awam di kedua bidang tersebut sebenarnya. 
+> Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅. 
 
 #### Apakah proyek ini bagian dari tugas/kerjaan?
 
 > Proyek hidrokit, _murni_ merupakan **proyek hobi** dan **pribadi**. 
 > 
 > **Proyek ini bukan**:
-> - Bagian dari pekerjaan (yang tidak saya miliki. 😉)
+> - Bagian dari pekerjaan (yang tidak saya miliki 😉)
 > - Untuk menyelesaikan kewajiban akademis (tugas akhir/tesis)
 > - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
@@ -222,6 +221,20 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > Dokumentasi juga menjadi beban tersendiri. Menulis panduan/tutorial, halaman depan, menulis ulang "hidrokit adalah ...." bisa lebih dari 30 kali. Setiap besoknya, selalu ada saja yang bisa diperbaiki agar lebih baik untuk mudah di baca atau jelas. Anda bisa melihatnya dari _commit_ yang saya buat. 😅😅
 > 
 > Jadi, maaf kalau tidak begitu banyak fitur baru di hidrokit 0.2.0. Karena saya sendiri masih awam di dunia python ataupun _open-source_. 🙇‍♀️🙇‍♂️. Semoga di 0.3.0 setidaknya saya sudah menambahkan fitur baru, terutama untuk analisis. Dan diharapkan juga saya sudah mulai menguasai memanfaatkan OOP. 
+
+#### Apa yang akan datang di versi berikutnya?
+
+> Saat ini, saya sedang belajar mengenai penggunaan deep learning dan hidrologi. Kemungkinan besar fitur hidrokit ditambah sesuai kebutuhan saya saat melakukan pembelajaran/penelitian. Fungsi `prep.timeseries` merupakan salah satu bentuk modul yang saya buat untuk membantu saya saat menggunakan ANN. Akan tetapi, rencana penelitian saya belum tentu sesuai dengan yang saya inginkan, sehingga pengembangan fitur akan bergantung apa yang saya lakukan kedepannya.
+> 
+> Jika ada ide/isu pada proyek ini, saya akan coba membalasnya dan mengatasinya meski tidak bisa janji atau respon cepat. 
+
+#### Saya baru belajar python / tidak tahu mengenai hidrologi, bagaimana saya bisa berkontribusi?
+
+> Jujur, saya juga bukan ahli atau tahu banyak mengenai kedua bidang tersebut. Saya belum pernah bekerja pada kedua bidang tersebut, jadi saya bisa dibilang masih awam. Satu saya peroleh dari jalur akademis, satunya lagi karena jalur hobi dengan modal internet. 
+> 
+> Menurut saya, hidrologi memiliki konsep yang mudah ditangkap bagi kebanyakan orang karena bisa diobservasi dengan mudah. Curah hujan yang turun, ke permukaan, mengalir, menguap, dll. Akan tetapi bisa menjadi sangat kompleks ketika memulai berbicara interaksi siklus tersebut dengan detail. Jadi, jangan takut gara-gara Anda tidak memiliki latar belakang tersebut. Tanyakan saja kepada komunitas. Bisa jadi setelah Anda bergabung di proyek ini, Anda tertarik mengambil bidang sumberdaya air di teknik sipil. 😉
+> 
+> Proyek ini bersifat inklusif, jadi jangan takut karena "saya bukan orang komputer / teknik sipil / hidrologi / praktisi". Di akhir hari, akan ada orang yang menambah wawasan baru dari orang lain yang memiliki latar belakang berbeda. 
 
 Pada versi hidrokit 0.1.0, saya sempat membuat halaman khusus mengenai tanya jawab mengenai proyek ini pada umumnya. Anda bisa membacanya [disini](https://taruma.online/articles/tanya-jawab-hidrokit). 
 

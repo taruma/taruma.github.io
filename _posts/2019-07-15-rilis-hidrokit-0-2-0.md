@@ -244,6 +244,10 @@ Pada versi hidrokit 0.1.0, saya sempat membuat halaman khusus mengenai tanya jaw
 
 Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di hi@taruma.info (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 
+Mengakhiri tulisan ini dengan video inspiratif dari Github.
+
+{% include elements/video.html id="HzZxcfVn_08" %}
+
 <!-- LINK -->
 [hidrokit]: https://taruma.github.io/hidrokit
 [hidrokit-notebook]: https://taruma.github.io/hidrokit-nb

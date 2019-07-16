@@ -212,6 +212,10 @@ Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 {% include elements/video.html id="HzZxcfVn_08" %}
 
+<div align="center" markdown="1">
+##### "This project dedicated to '_my younger me_'. Good luck! ♥"
+</div>
+
 <!-- LINK -->
 [hidrokit]: https://taruma.github.io/hidrokit
 [hidrokit-notebook]: https://taruma.github.io/hidrokit-nb

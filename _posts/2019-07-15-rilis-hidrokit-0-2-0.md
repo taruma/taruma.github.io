@@ -212,8 +212,10 @@ Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 {% include elements/video.html id="HzZxcfVn_08" %}
 
-<div align="center" markdown="1">
-##### "This project dedicated to '_my younger me_'. Good luck! ♥"
+<div align="center">
+<small class="text-muted mb-2">
+"This project dedicated to '_my younger me_'. Good luck! ♥"
+</small>
 </div>
 
 <!-- LINK -->

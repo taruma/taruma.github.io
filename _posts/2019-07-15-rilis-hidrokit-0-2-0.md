@@ -18,7 +18,7 @@ Jika ingin langsung melihat kegunaan hidrokit (python dan jupyter notebook) bisa
 - Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma. [Lihat di NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb).
 - Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di [halaman ini](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-).
 
-Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi). Proyek ini terbuka untuk berbagai latar belakang dan tingkat keahlian. 
+Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi). Proyek ini terbuka untuk berbagai latar belakang dan tingkat keahlian. Saya juga telah membuat tanya jawab seputar proyek ini pada bagian [FAQ](#frequently-asked-questions).
 
 -----
 ## Apa yang baru di hidrokit 0.2.0?
@@ -202,6 +202,8 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak positif/negatif proyek ini.
 
+
+-----
 #### Lalu apa alasan dibuatnya hidrokit?
 
 > Sejak dari dulu saya memiliki ketertarikan pada bidang komputer dan teknologi. Tahun 2016, saya membaca artikel mengenai _data science_ dan _machine learning_. Dan pada momen itu, saya berniat untuk mempelajarinya. Saya memulai mempelajari python dari tahun 2017. 

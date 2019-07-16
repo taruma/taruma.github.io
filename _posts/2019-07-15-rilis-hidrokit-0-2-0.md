@@ -6,7 +6,7 @@ color: success
 description: Rilisnya hidrokit 0.2.0 disertai situs resminya. Penjelasan mengenai proyek hidrokit 0.2.0.
 ---
 
-[Enam bulan yang lalu (Januari 2019)](https://medium.com/@taruma/hidrokit-analisis-hidrologi-dengan-python-bdcad9e5865d), saya merilis hidrokit 0.1.0. Pada saat itu, banyak sekali kekurangan dari segi dokumentasi maupun teknis sehingga cukup sulit untuk memulai berkontribusi bagi yang tertarik untuk ikut serta dalam proyek _open-source_ ini. Dengan rilis 0.2.0, saya mencoba menjawab permasalahan tersebut dengan menyertai berbagai fitur untuk paket python hidrokit maupun dokumentasi sehingga memudahkan berkontribusi bagi yang tertarik dengan proyek ini. 
+[Enam bulan yang lalu](https://medium.com/@taruma/hidrokit-analisis-hidrologi-dengan-python-bdcad9e5865d), saya merilis hidrokit 0.1.0. Pada saat itu, banyak sekali kekurangan dari segi dokumentasi maupun teknis sehingga cukup sulit untuk memulai berkontribusi bagi yang tertarik untuk ikut serta dalam proyek _open-source_ ini. Dengan rilis 0.2.0, saya mencoba menjawab permasalahan tersebut dengan menyertai berbagai fitur untuk paket python hidrokit maupun dokumentasi sehingga memudahkan berkontribusi bagi yang tertarik dengan proyek ini. 
 
 ## Pengenalan
 

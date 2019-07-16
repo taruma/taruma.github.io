@@ -155,7 +155,9 @@ Seluruh yang disebutkan pada proyek ini berupa paket python hidrokit, situs hidr
 
 Panduan umum untuk berkontribusi dapat dibaca pada halaman [berkontribusi](https://hidrokit.online/berkontribusi).
 
-Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman [how to contribute](https://opensource.guide/how-to-contribute/), Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. 
+Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman [how to contribute](https://opensource.guide/how-to-contribute/), Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. Ilustrasi berkontribusi di Github:
+
+{% include elements/video.html id="w3jLJU7DT5E" %}
 
 - Jika Anda seorang **_praktisi/akademisi di bidang hidrologi_**, Anda bisa menyampaikan ide/fitur yang cocok disertakan di proyek ini, berdiskusi tentang impelementasi pada python, dll.
 - Jika Anda tetarik pada pengembangan **_web_**, Anda bisa memberikan ide desain situs, menyarankan tema yang sesuai, mengembangkan tema Jekyll yang sesuai dengan proyek ini, bereksperimen dengan Jekyll dan Github Pages. Ada dua situs yaitu [hidrokit] dan [hidrokit-notebook], jadi ada wadah bereksperimen atau berkontribusi pada proyek ini bagi yang tertarik. 

@@ -15,8 +15,8 @@ Hidrokit merupakan proyek _open-source_ paket/_package_ python yang dapat diguna
 Baca [abstrak dan tujuan hidrokit](https://taruma.github.io/hidrokit/tentang-hidrokit) untuk informasi lebih lanjut.
 
 Jika ingin langsung melihat kegunaan hidrokit (python dan jupyter notebook) bisa lihat contoh notebook berikut:
-- Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma. [Lihat di NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb).
-- Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di [halaman ini](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-).
+- **Prediksi Kualitas Air menggunakan Metode _Artificial Neural Networks_ oleh taruma**. [Lihat melalui NBViewer](https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb).
+- **Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di** [**halaman ini**](https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-).
 
 Jika Anda tertarik berkontribusi pada proyek ini, baca bagian [kontribusi](#berkontribusi). Proyek ini terbuka untuk berbagai latar belakang dan tingkat keahlian. Saya juga telah membuat tanya jawab seputar proyek ini pada bagian [FAQ](#frequently-asked-questions).
 

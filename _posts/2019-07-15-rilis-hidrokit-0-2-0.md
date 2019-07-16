@@ -214,7 +214,7 @@ Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 <div align="center">
 <small class="text-muted mb-2">
-"This project dedicated to '_my younger me_'. Good luck! ♥"
+"This project dedicated to '<i>my younger me</i>'. Good luck! ♥"
 </small>
 </div>
 

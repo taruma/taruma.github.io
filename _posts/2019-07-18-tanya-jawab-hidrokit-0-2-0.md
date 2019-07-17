@@ -70,7 +70,7 @@ Dan ini daftar pertanyaan dari berbagai komunitas.
 > Contoh penerapan analisis hidrologi bisa baca di [Hydrology#Applications](https://en.wikipedia.org/wiki/Hydrology#Applications). 
 > Saya tidak bisa memberi jawaban lebih dari itu karena saya sendiri belum punya pengalaman kerja/praktis di bidang hidrologi, jadi maaf kalau jawabannya tidak memuaskan. 🙇‍♂️
 
-(oleh Pratama) [link](https://t.me/idpyplc/2794)
+<small markdown="1">(oleh Pratama) [link](https://t.me/idpyplc/2794)</small>
 
 **Bisa gak memprediksi debit dari ketinggian air?**
 > [In Reply to Pratama] <br>

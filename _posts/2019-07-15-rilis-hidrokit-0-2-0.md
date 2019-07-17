@@ -206,6 +206,8 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 
 -----
 
+Anda bisa membaca FAQ tanya jawab lanjutannya di halaman [Tanya Jawab Rilis Hidrokit 0.2.0]({% link _posts/2019-07-18-tanya-jawab-hidrokit-0-2-0.md %}).
+
 Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di hi@taruma.info (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 
 Mengakhiri tulisan ini dengan video inspiratif dari Github.
@@ -214,7 +216,7 @@ Mengakhiri tulisan ini dengan video inspiratif dari Github.
 
 <div align="center">
 <small class="text-muted mb-2">
-"This project dedicated to '<i>my younger me</i>'. Good luck! ♥"
+"This project is dedicated to '<i>my younger me</i>'. Good luck! ♥"
 </small>
 </div>
 

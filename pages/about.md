@@ -35,6 +35,6 @@ atau biasa dipanggil dengan *‘Uma’*. Di halaman ini Anda bisa mengetahui pen
 
 Berikut kelas/kursus/kuliah online yang telah saya ambil dan selesaikan.
 
-<div class="row">
+<div class="row" markdown="1">
 {% include about/classes.md %}
 </div>

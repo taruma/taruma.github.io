@@ -58,11 +58,12 @@ Dan ini daftar pertanyaan dari berbagai komunitas.
 (oleh Ashar) [link](https://t.me/idpyplc/2791)
 
 **Analisis Hidrologi itu kaya apa ya? Ada video penggunaannya?**
+> [In reply to Ashar] <br>
 > analisis hidrologi, sederhananya, mengetahui besarnya presipitasi/curah hujan/debit pada siklus hidrologi. Permasalahan hidrologi itu dari banjir, irigasi, drainase, dkk. 
-> Kalau dalam praktiknya, kayak mencari tahu besarnya debit pada suatu saluran/sungai dari curah hujan, mengetahui besarnya penguapan, dll.
-> Untuk pengenalan hidrologi bisa lihat video ini: [The Water Cycle](https://www.youtube.com/watch?v=al-do-HGuIk)
-> Tapi kalau video menggunakan metode/analisis hidrologi, saya juga kurang tahu. setahu saya hanya digunakan saat merancang proyek sipil (drainase kota, bendungan, irigasi, dll).
-> IMO, informasi sumber analisis hidrologi di Indonesia bisa dibillang terbatas (atau susah di lacak) selain harus jadi teknik sipil. Nah saya harap, dari sisi para praktisi hidrologi, mulai berkomunikasi sama sisi teknologinya. 
+> Kalau dalam praktiknya, kayak mencari tahu besarnya debit pada suatu saluran/sungai dari curah hujan, mengetahui besarnya penguapan, dll. <br> 
+> Untuk pengenalan hidrologi bisa lihat video ini: [The Water Cycle](https://www.youtube.com/watch?v=al-do-HGuIk) <br> 
+> Tapi kalau video menggunakan metode/analisis hidrologi, saya juga kurang tahu. setahu saya hanya digunakan saat merancang proyek sipil (drainase kota, bendungan, irigasi, dll). <br>
+> IMO, informasi sumber analisis hidrologi di Indonesia bisa dibillang terbatas (atau susah di lacak) selain harus jadi teknik sipil. Nah saya harap, dari sisi para praktisi hidrologi, mulai berkomunikasi sama sisi teknologinya. <br>
 > Ini juga terinspirasi karena sekarang sudah mulai "populer" python di kalangan akademisi teknik sipil. Nah, saya niatnya buat wadahnya aja. Nah bagi para developer kan lumayan jadi ada proyekan gitu. haha.
 > 
 > -----
@@ -72,6 +73,7 @@ Dan ini daftar pertanyaan dari berbagai komunitas.
 (oleh Pratama) [link](https://t.me/idpyplc/2794)
 
 **Bisa gak memprediksi debit dari ketinggian air?**
+> [In Reply to Pratama] <br>
 > Itu termasuk permasalahan hidrologi. Ada beberapa metode "eksak"-nya sih, karena udah dilakukan penelitan bertahun-tahun mengenai hubungan fisik antara dua nilai tersebut. Tapi saya rasa pakai machine learning lebih praktis. 
 > 
 > -----

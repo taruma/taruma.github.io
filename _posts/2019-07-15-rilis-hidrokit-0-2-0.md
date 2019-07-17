@@ -179,11 +179,11 @@ Intinya, kalau ada ide jangan dibiarkan terbang, buat isu/diskusi di github [sek
 
 Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbangan.
 
-#### Siapa dibalik proyek hidrokit?
+**Siapa dibalik proyek hidrokit?**
 
 > Proyek hidrokit dibuat dan dimulai oleh [Taruma Sakti Megariansyah](https://taruma.info) (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅. 
 
-#### Apakah proyek ini bagian dari tugas/kerjaan?
+**Apakah proyek ini bagian dari tugas/kerjaan?**
 
 > Proyek hidrokit, _murni_ merupakan **proyek hobi** dan **pribadi**. 
 > 
@@ -192,7 +192,7 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > - Untuk menyelesaikan kewajiban akademis (tugas akhir/tesis)
 > - Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu. 
 
-#### Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?
+**Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?**
 
 > hidrokit **bukan** program yang berfungsi memasukkan _input data_ kemudian langsung memperoleh _output data_ atau laporan. Sehingga tidak bisa "segera" diuntungkan saat beralih ke penggunaan hidrokit/python.
 > 
@@ -204,9 +204,9 @@ Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbang
 > 
 > Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau _python/data science_. Jadi, saya tidak bisa menjawab dengan tepat dampak positif/negatif proyek ini.
 
------
-
 Anda bisa membaca FAQ lanjutannya di halaman [Tanya Jawab Rilis Hidrokit 0.2.0]({% link _posts/2019-07-18-tanya-jawab-hidrokit-0-2-0.md %}).
+
+-----
 
 Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di hi@taruma.info (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 

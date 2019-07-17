@@ -1,12 +1,12 @@
 <div class="col mt-0">
-    <div class="timeline-body">
+    <div class="classes-body">
         {% for item in site.data.classes %}
-        <div class="timeline-item">
+        <div class="classes-item">
             <div class="content">
-                <h4>{{ item.title }}</h4>
+                <h5>{{ item.title }}</h5>
                 <h6 class="date">{{ item.university }}, {{ item.mooc }}</h6>
                 <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
-                <p>{{ item.description }}</p>
+                {%- if item.description -%}<p>{{ item.description }}</p>{%- endif -%}
                 <p>
                     {% if item.grade %}
                     Grade: {{ item.grade }}

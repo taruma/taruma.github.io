@@ -208,7 +208,7 @@ Anda bisa membaca FAQ lanjutannya di halaman [Tanya Jawab Rilis Hidrokit 0.2.0](
 
 -----
 
-Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di hi@taruma.info (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
+Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di [halaman github](https://github.com/taruma/hidrokit/issues/new/choose). Anda bisa menghubungi saya melalui email di __tarumainfo@gmail.com__ (Email hi@taruma.info sedang bermasalah) (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).
 
 Mengakhiri tulisan ini dengan video inspiratif dari Github.
 

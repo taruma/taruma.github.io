@@ -1,7 +1,52 @@
+- title: "Practical Latex: The First Course"
+  mooc: Udemy
+  university: "Tahir Yaqub"
+  from: Jul 2019
+  to: now
+  grade: 
+  certificate_url:
+  description:
+
+- title: "Deep Learning and Machine Learning Practical Workout"
+  mooc: Udemy
+  university: "Dr. Ryan Ahmed, Ph.D., MBA, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Mitchell Bouchard"
+  from: Jul 2019
+  to: now
+  grade: 
+  certificate_url:
+  description:
+
+- title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
+  mooc: Udemy
+  university: "Bibhash Roy"
+  from: Jul 2019
+  to: now
+  grade: 
+  certificate_url:
+  description:
+
+- title: "GitHub Ultimate: Master Git and GitHub - Beginner to Expert"
+  mooc: Udemy
+  university: "Jason Taylor"
+  from: Jul 2019
+  to: now
+  grade: 
+  certificate_url:
+  description:
+
+- title: "Deep Learning A-Z™: Hands-On Artificial Neural Networks"
+  mooc: Udemy
+  university: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team"
+  from: Apr 2019
+  to: now
+  grade: 
+  certificate_url:
+  description:
+
 - title: "Machine Learning A-Z™: Hands-On Python & R In Data Science"
   mooc: Udemy
   university: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience"
-  from: 
+  from: Apr 2019
   to: Apr 2019
   grade: 
   certificate_url: https://www.udemy.com/certificate/UC-JP40AR7J/

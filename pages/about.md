@@ -16,7 +16,7 @@ atau biasa dipanggil dengan *‘Uma’*. Di halaman ini Anda bisa mengetahui pen
 |                 | **Dasar**             | Matlab Fortran Pascal VBA/Macro            |
 |                 | *(sedang dipelajari)* | Python                                     |
 |                 |                       |                                            |
-| Python          | **Terbiasa**          | numpy pandas matplotlib keras              |
+| Python          | **Terbiasa**          | numpy pandas matplotlib                    |
 |                 | **Dasar**             | scipy sympy seaborn scikit-learn           |
 |                 | *(sedang dipelajari)* | numpy pandas keras                         |
 |                 |                       |                                            |

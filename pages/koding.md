@@ -29,9 +29,17 @@ Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komput
 | Lain            | **Terbiasa**          | Markdown Latex                             |
 |                 | **Dasar**             | YAML Jekyll Liquid HTML/CSS                |
 
+-----
+
+## Proyek
+
+{% include proyek.html category="koding" %}
+
+-----
 
 ## Kursus / Kelas
 
 Berikut kelas/kursus/kuliah online yang saya ambil berkaitan dengan keahlian pemrograman atau komputer.
 
 {% include mooc.html category="computer science" %}
+

@@ -1,0 +1,18 @@
+<div class="row">
+    <ul>
+        {% for project in site.projects %}
+        {% if project.tools contains include.category %}
+        {% if project.external_url %}
+        {% assign project_url = project.external_url %}
+        {% else %}
+        {% assign project_url = project.url | relative_url %}
+        {% endif %}
+        <li>
+            <a href="{{ project_url }}">{{ project.name }}</a> <small>{{ project.date }}</small>
+            <br>
+            <p>{{ project.description }}</p>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+    </ul>
+</div>

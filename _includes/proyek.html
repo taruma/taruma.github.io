@@ -9,7 +9,8 @@
         {% assign project_url = project.url | relative_url %}
         {% endif %}
         <li>
-            <a href="{{ project_url }}">{{ project.name }}</a> <small>{{ project.date | date: "%d %B %Y"}}</small>
+            <a href="{{ project_url }}"><strong>{{ project.name }}</strong></a>
+            <small>{{ project.date | date: "%d %B %Y"}}</small>
             <br>
             <p>{{ project.description }}</p>
         </li>

@@ -1,6 +1,7 @@
 <div class="row">
     <ul>
-        {% for project in site.projects %}
+        {% assign sorted = (site.projects | sort: "date") | reverse %}
+        {% for project in sorted %}
         {% if project.tools contains include.category %}
         {% if project.external_url %}
         {% assign project_url = project.external_url %}
@@ -8,7 +9,7 @@
         {% assign project_url = project.url | relative_url %}
         {% endif %}
         <li>
-            <a href="{{ project_url }}">{{ project.name }}</a> <small>{{ project.date }}</small>
+            <a href="{{ project_url }}">{{ project.name }}</a> <small>{{ project.date | date: "%d %B %Y"}}</small>
             <br>
             <p>{{ project.description }}</p>
         </li>

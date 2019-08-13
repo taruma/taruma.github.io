@@ -5,7 +5,7 @@ permalink: /koding/
 weight: 4
 ---
 
-Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman dan kuliah/kursus/kelas online yang berhubungan dengan python, _data science_.
+Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman dan kuliah/kursus yang berkaitan dengan komputer. 
 
 ## Keahlian
 
@@ -30,10 +30,8 @@ Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komput
 |                 | **Dasar**             | YAML Jekyll Liquid HTML/CSS                |
 
 
-## Kursus/Kelas
+## Kursus / Kelas
 
-Berikut kelas/kursus/kuliah online yang telah saya ambil dan selesaikan.
+Berikut kelas/kursus/kuliah online yang saya ambil berkaitan dengan keahlian pemrograman atau komputer.
 
-<div class="row" markdown="1">
-{% include about/classes.md %}
-</div>
+{% include mooc.html category="computer science" %}

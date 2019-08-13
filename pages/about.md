@@ -12,5 +12,6 @@ Situs ini saya buat sebagai situs portofolio kreatif saya dan mencatat pengalama
 Berikut halaman-halaman yang tersedia di situs ini:
 - [proyek](/proyek): kumpulan proyek kreatif saya yang telah saya buat.
 - [koding](/koding): halaman keahlian/pengalaman saya dalam berkoding/memprogram di bidang komputer.
-- [musik](/musik): halaman menceritakan pengalaman saya dalam bermusik.
+- [musik](https://taruma.info/music): halaman menceritakan pengalaman saya dalam bermusik.
+- [mooc](/mooc): halaman daftar MOOC (Massive Open Online Course)/Kursus/Kuliah online yang telah/sedang saya ambil.
 

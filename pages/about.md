@@ -12,5 +12,5 @@ Situs ini saya buat sebagai situs portofolio kreatif saya dan mencatat pengalama
 Berikut halaman-halaman yang tersedia di situs ini:
 - [proyek]({% link pages/project.html %}): kumpulan proyek kreatif saya yang telah saya buat.
 - [koding]({% link pages/koding.md %}): halaman keahlian/pengalaman saya dalam berkoding/memprogram di bidang komputer.
-- [musik]({% link pages/music.md %}): halaman menceritakan pengalaman saya dalam bermusik.
+- [musik]({% link pages/musik.md %}): halaman menceritakan pengalaman saya dalam bermusik.
 

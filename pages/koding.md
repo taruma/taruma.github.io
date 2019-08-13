@@ -2,7 +2,7 @@
 layout: page
 title: Koding
 permalink: /koding/
-weight: 3
+weight: 4
 ---
 
 Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman dan kuliah/kursus/kelas online yang berhubungan dengan python, _data science_.

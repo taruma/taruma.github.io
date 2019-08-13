@@ -2,7 +2,7 @@
 layout: page
 title: MOOC
 permalink: /mooc/
-weight: 4
+weight: 6
 ---
 
 Di halaman ini kamu bisa melihat daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah saya ambil. 

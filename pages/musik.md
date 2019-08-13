@@ -7,7 +7,7 @@ weight: 5
 
 {% include elements/figure.html image="/assets/images/taruma-sakti-cover.png" caption="Logo Taruma Sakti" %}
 
-Selamat datang di halaman musik. Di halaman ini, saya akan berbagi hasil karya yang telah saya buat dan publikasikan. Tidak sebatas musik yang buat saja, saya juga cukup aktif mengkurasi musik dan menyajikan dalam bentuk playlist di spotify. 
+Selamat datang di halaman musik. Di halaman ini, saya ingin bercerita pengalaman bermusik saya, dari membuatnya atau sekedar mengurasi musik dalam bentuk _playlist_ (_curated playlist_). 
 
 ## Pengalaman bermusik
 
@@ -23,11 +23,12 @@ Berikut informasi seputar karya musik saya:
 
 ## Playlist Spotify
 
-Semenjak mengenal spotify dari tahun 2014, saya mulai mengkurasi musik-musik yang saya sukai dalam bentuk _playlist_ di Spotify. 
+Semenjak mengenal spotify dari tahun 2014, saya mulai mengurasi musik-musik yang saya sukai dalam bentuk _playlist_ di Spotify. 
 
+{% include proyek.html category="playlist" %}
 
 ## Karya Musik
 
 Berikut daftar karya musik berupa album/EP/single yang telah/sempat saya publikasikan melalui spotify.
 
-{% include proyek.html category="musik" %}
+{% include proyek.html category="album" %}

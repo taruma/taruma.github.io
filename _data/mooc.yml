@@ -43,6 +43,20 @@
   certificate_url:
   note:
 
+- title: "GIS in QGIS 3 for beginners (project and e-book)"
+  mooc: Udemy
+  url: https://www.udemy.com/gis-in-qgis-3-for-beginners-project-and-e-book/
+  category:
+    - udemy
+    - software
+    - QGIS
+  author: "Krzysztof Raczyński"
+  from: Mar 2019
+  to: now
+  grade: N/A
+  certificate_url:
+  note:
+
 - title: "GitHub Ultimate: Master Git and GitHub - Beginner to Expert"
   mooc: Udemy
   url: https://www.udemy.com/github-ultimate/
@@ -70,7 +84,7 @@
   author: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience"
   from: Jan 2018
   to: Apr 2019
-  grade: 
+  grade: N/A
   certificate_url: https://www.udemy.com/certificate/UC-JP40AR7J/
   note:
 

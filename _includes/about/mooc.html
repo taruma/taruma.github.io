@@ -3,7 +3,7 @@
         {% for course in site.data.mooc %}
         {% if course.category contains include.category %}
         <li>
-            <a href="{{ course.url }}"><strong>{{ course.title }}</strong></a>,
+            <a href="{{ course.url }}"><strong>{{ course.title }}</strong></a>
             <small>{{ course.from }} - {{ course.to }}</small>
             <br>
             <strong>{{ course.author }}</strong> | {{ course.mooc }}
@@ -12,13 +12,14 @@
             Grade: {{ course.grade }}
             {% if course.certification_url %} | {%- endif -%}
             {%- endif -%}
-            {% if course.certification_url %}
-            <a href="{{ course.certification_url }}">Certificate</a>
+            {% if course.certificate_url %}
+            <a href="{{ course.certificate_url }}">Certificate</a>
             {%- endif -%}
             <br>
             {% for category in course.category %}
             <span class="badge badge-pill text-primary border border-primary">{{ category }}</span>
             {%- endfor -%}
+            <br>
         </li>
         {%- endif -%}
         {%- endfor -%}

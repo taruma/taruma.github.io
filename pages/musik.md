@@ -21,14 +21,15 @@ Berikut informasi seputar karya musik saya:
 
 <p align="center"><iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:2RF0qvWLmVyUCMuRdAzgfr&amp;size=detail&amp;theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe></p>
 
-## Playlist Spotify
-
-Semenjak mengenal spotify dari tahun 2014, saya mulai mengurasi musik-musik yang saya sukai dalam bentuk _playlist_ di Spotify. 
-
-{% include proyek.html category="playlist" %}
-
 ## Karya Musik
 
 Berikut daftar karya musik berupa album/EP/single yang telah/sempat saya publikasikan melalui spotify.
 
 {% include proyek.html category="album" %}
+
+## Playlist Spotify
+
+Semenjak mengenal spotify dari tahun 2014, saya mulai mengurasi musik-musik yang saya sukai dalam bentuk _playlist_ di Spotify. Pada tahun 2019, saya memulai seri _playlist_ bernama _scoretrack_. _Scoretrack_ sendiri adalah musik instrumental yang memiliki tema masing-masing. _scoretrack playlist_ berdurasi kurang lebih satu jam, dan dianjurkan untuk dimainkan secara berurutan. 
+
+{% include proyek.html category="playlist" %}
+

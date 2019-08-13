@@ -6,13 +6,14 @@
             <a href="{{ course.url }}"><strong>{{ course.title }}</strong></a>
             <small>{{ course.from }} - {{ course.to }}</small>
             <br>
-            <strong>{{ course.author }}</strong> | {{ course.mooc }}<br>
-            {% if course.grade %}
-            Grade: {{ course.grade }}{% if course.certificate_url %} | {%- endif -%}
-            {%- endif -%}
-            {% if course.certificate_url %}
-            <a href="{{ course.certificate_url }}">Certificate</a>
-            {%- endif -%}<br>
+            <small><strong>{{ course.author }}</strong> | {{ course.mooc }}<br>
+                {% if course.grade %}
+                Grade: {{ course.grade }}{% if course.certificate_url %} | {%- endif -%}
+                {%- endif -%}
+                {% if course.certificate_url %}
+                <a href="{{ course.certificate_url }}">Certificate</a>
+                {%- endif -%}
+            </small><br>
             {% for category in course.category %}
             <span class="badge badge-pill text-primary border border-primary">{{ category }}</span>
             {%- endfor -%} <br><br>

@@ -10,11 +10,14 @@ Berikut daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) 
 ## Coursera
 {% include about/mooc.html category="coursera" %}
 
+-----
 ## Udemy
 {% include about/mooc.html category="udemy" %}
 
+-----
 ## edX
 {% include about/mooc.html category="edx" %}
 
+-----
 ## Others
 {% include about/mooc.html category="" %}

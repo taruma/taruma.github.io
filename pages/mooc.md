@@ -5,19 +5,25 @@ permalink: /mooc/
 weight: 4
 ---
 
-Berikut daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah saya ambil:
+Dihalaman ini kamu bisa melihat daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah saya ambil. 
 
+<div align="center" markdown="1">
 ## Coursera
-{% include about/mooc.html category="coursera" %}
+</div>
+{% include mooc.html category="coursera" %}
 
 -----
-## Udemy
-{% include about/mooc.html category="udemy" %}
-
------
+<div align="center" markdown="1">
 ## edX
-{% include about/mooc.html category="edx" %}
+</div>
+{% include mooc.html category="edx" %}
+
+-----
+<div align="center" markdown="1">
+## Udemy
+</div>
+{% include mooc.html category="udemy" %}
 
 -----
 ## Others
-{% include about/mooc.html category="" %}
+{% include mooc.html category="others" %}

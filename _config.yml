@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : taruma.online
 description         : >-                               # >- means to ignore newlines until "url:"
-                      📄 situs ini menceritakan 🚊 
-                      pengalaman saya 🔬 coba 💾 ngoding
+                      Halo, saya Taruma! Kamu bisa cek proyek kreatif saya dan pengalaman belajar sendiri di situs ini.
 
 url                 : "https://taruma.online"          # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                               # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]

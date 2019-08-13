@@ -13,5 +13,6 @@ Berikut halaman-halaman yang tersedia di situs ini:
 - [proyek](/proyek): kumpulan proyek kreatif saya yang telah saya buat.
 - [koding](/koding): halaman keahlian/pengalaman saya dalam berkoding/memprogram di bidang komputer.
 - [musik](https://taruma.info/music): halaman menceritakan pengalaman saya dalam bermusik.
+- [bahasa](/bahasa): halaman pengalaman saya belajar bahasa.
 - [mooc](/mooc): halaman daftar MOOC (Massive Open Online Course)/Kursus/Kuliah online yang telah/sedang saya ambil.
 

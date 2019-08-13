@@ -1,3 +1,87 @@
+- title: "ASL Alphabet and Numbers"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/43816/asl-alphabet-and-numbers-2/
+  category:
+    - others
+    - language
+    - ASL
+  author: Naurvir
+  from: N/A
+  to: N/A
+  grade: 35/35
+  certificate_url: 
+  note:
+
+- title: "Introduction to ASL"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/58921/introduction-to-asl-2/
+  category:
+    - others
+    - language
+    - ASL
+  author: Naurvir
+  from: N/A
+  to: N/A
+  grade: 116/116
+  certificate_url: 
+  note:
+
+- title: "ASL - Seasonal"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/348285/asl-seasonal/
+  category:
+    - others
+    - language
+    - ASL
+  author: Diana.S
+  from: N/A
+  to: now
+  grade: 8/60
+  certificate_url: 
+  note:
+
+- title: "American Sign Language 3"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/1652197/american-sign-language-3/
+  category:
+    - others
+    - language
+    - ASL
+  author: Diana.S
+  from: N/A
+  to: now
+  grade: 0/202
+  certificate_url: 
+  note:
+
+- title: "American Sign Language 2"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/347013/american-sign-language-2/
+  category:
+    - others
+    - language
+    - ASL
+  author: Diana.S
+  from: N/A
+  to: now
+  grade: 141/333
+  certificate_url: 
+  note:
+
+- title: "American Sign Language 1"
+  mooc: MEMRISE
+  url: https://www.memrise.com/course/302204/american-sign-language-1/
+  category:
+    - others
+    - language
+    - ASL
+  author: Diana.S
+  from: N/A
+  to: N/A
+  grade: 181/181
+  certificate_url: 
+  note:
+
 - title: "Practical Latex: The First Course"
   mooc: Udemy
   url: https://www.udemy.com/practical-latex-the-first-course/

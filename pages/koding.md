@@ -5,7 +5,7 @@ permalink: /koding/
 weight: 4
 ---
 
-Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komputer/pemrograman dan kuliah/kursus yang berkaitan dengan komputer. 
+Di halaman ini berisikan pengalaman/keahlian saya, proyek yang terlibat, dan kelas/kursus/kuliah dalam bidang komputer/pemrograman. 
 
 ## Keahlian
 
@@ -32,6 +32,8 @@ Di halaman ini Anda bisa mengetahui pengalaman/keahlian saya dalam bidang komput
 -----
 
 ## Proyek
+
+Berikut daftar proyek yang melibatkan saya.
 
 {% include proyek.html category="koding" %}
 

@@ -1,7 +1,11 @@
 <div class="row">
     <ul>
+        asdasdasd
         {% for course in site.data.mooc %}
+        asdasdasd
+        {{ course.category }}
         {% if course.category contains include.category %}
+
         <li>
             <a href="{{ course.url }}"><strong>{{ course.title }}</strong></a>
             <br>

@@ -14,7 +14,7 @@
                 <a href="{{ course.certificate_url }}">Certificate</a>
                 {%- endif -%}
             </small><br>
-            {%- if course.note -%}<p style="margin-left: 20px"><small>{{ course.note }}</small></p>{%- endif -%}
+            {%- if course.note -%}<div style="margin-left: 20px"><small>{{ course.note }}</small></div>{%- endif -%}
             {%- for category in course.category -%}
             <span class="badge badge-pill text-primary border border-primary">{{ category }}</span>
             {%- endfor -%} <br><br>

@@ -1,216 +1,399 @@
+- title: "Practical Latex: The First Course"
+  mooc: Udemy
+  url: https://www.udemy.com/practical-latex-the-first-course/
+  category:
+    - udemy
+    - computer science
+    - latex
+  author: "Tahir Yaqub"
+  from: Jul 2019
+  to: now
+  grade: N/A
+  certificate_url: 
+  note: 
+
+- title: "Deep Learning and Machine Learning Practical Workout"
+  mooc: Udemy
+  url: https://www.udemy.com/deep-learning-machine-learning-practical/
+  category:
+    - udemy
+    - computer science
+    - data science
+    - python
+  author: "Dr. Ryan Ahmed, Ph.D., MBA, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Mitchell Bouchard"
+  from: Jul 2019
+  to: now
+  grade: N/A
+  certificate_url:
+  note:
+
+- title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
+  mooc: Udemy
+  url: https://www.udemy.com/git-basic-concept-fundamentals-github/
+  category:
+    - udemy
+    - computer science
+    - development
+    - git
+    - github
+  author: "Bibhash Roy"
+  from: Jul 2019
+  to: now
+  grade: N/A
+  certificate_url:
+  note:
+
+- title: "GitHub Ultimate: Master Git and GitHub - Beginner to Expert"
+  mooc: Udemy
+  url: https://www.udemy.com/github-ultimate/
+  category:
+    - udemy
+    - computer science
+    - development
+    - git
+    - github
+  author: "Jason Taylor"
+  from: Jul 2019
+  to: Jul 2019
+  grade: N/A
+  certificate_url: https://www.udemy.com/certificate/UC-GEJ4SXUH/
+  note:
+
 - title: "Machine Learning A-Z™: Hands-On Python & R In Data Science"
   mooc: Udemy
-  university: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience"
-  from: 
+  url: https://www.udemy.com/machinelearning/
+  category:
+    - udemy
+    - computer science
+    - data science
+    - python
+  author: "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience"
+  from: Jan 2018
   to: Apr 2019
   grade: 
   certificate_url: https://www.udemy.com/certificate/UC-JP40AR7J/
-  description:
+  note:
 
 - title: "Python for Data Science and Machine Learning Bootcamp"
   mooc: Udemy
-  university: Jose Portilla
-  from: 
+  url: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+  category:
+    - udemy
+    - computer science
+    - data science
+  author: Jose Portilla
+  from: Aug 2018
   to: Oct 2018
-  grade: 
+  grade: N/A
   certificate_url: https://www.udemy.com/certificate/UC-FH5TUFLB/
-  description:
+  note:
 
 - title: "Data Science Research Methods: Python Edition (DAT273x)"
   mooc: edX
-  university: Microsoft
+  url: https://www.edx.org/course/data-science-research-methods-python-edition
+  category:
+    - edx
+    - computer science
+    - python
+    - data science
+  author: Microsoft
   from: 
   to: Oct 2018
   grade: 86.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Essential Math for Machine Learning: Python Edition (DAT256x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/essential-math-for-machine-learning-python-edition
+  category:
+    - edx
+    - computer science
+    - python
+  author: Microsoft
+  from: N/A
   to: Oct 2018
   grade: 96.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Introduction to Artificial Intelligence (AI) (DAT263x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/introduction-to-artificial-intelligence-ai
+  category: 
+    - edx
+    - computer science
+    - data science
+  author: Microsoft
+  from: N/A
   to: Oct 2018
   grade: 90.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Principles of Machine Learning (DEV203.2x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/principles-of-machine-learning
+  category:
+    - edx
+    - computer science
+    - data science
+  author: Microsoft
+  from: N/A
   to: Jul 2018
   grade: 94.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Data Science Essentials (DEV203.1x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/data-science-essentials
+  category:
+    - edx
+    - computer science
+    - data science
+  author: Microsoft
+  from: N/A
   to: Aug 2018
   grade: 100.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Introduction to Python: Creating Scalable, Robust, Interactive Code (DEV330x)"
   mooc: edX
-  university: Microsoft
+  url: https://www.edx.org/course/introduction-to-python-creating-scalable-robust-interactive-code
+  category:
+    - edx
+    - computer science
+    - python
+  author: Microsoft
   from: 
   to: Apr 2018
   grade: 100.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Introduction to Python: Fundamentals (DEV274x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/introduction-to-python-fundamentals
+  category:
+    - edx
+    - computer science
+    - python
+  author: Microsoft
+  from: N/A
   to: Apr 2018
   grade: 97.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Introduction to Python: Absolute Beginner (DEV236x)"
   mooc: edX
-  university: Microsoft
-  from: 
+  url: https://www.edx.org/course/introduction-to-python-absolute-beginner
+  category:
+    - edx
+    - computer science
+    - python
+  author: Microsoft
+  from: N/A
   to: Apr 2018
   grade: 96.00%
   certificate_url: 
-  description:
+  note:
 
 - title: "Research Methods: An Engineering Approach (ELEN7070x)"
   mooc: edX
-  university: The University of the Witwatersrand, Johannesburg
-  from: 
+  url: https://www.edx.org/course/research-methods-an-engineering-approach
+  category:
+    - edx
+    - engineering
+  author: The University of the Witwatersrand, Johannesburg
+  from: N/A
   to: Feb 2018
   grade: 98.00%
   certificate_url: 
-  description:
+  note:
 
 - title: Introduction to Python for Data Science (DAT208x)
   mooc: edX
-  university: Microsoft
-  from: 
+  url: 
+  category:
+    - edx
+    - computer science
+    - data science
+    - python
+  author: Microsoft
+  from: N/A
   to: Sep 2017
   grade: 97.00%
   certificate_url: 
-  description:
+  note:
 
 - title: First Step Korean
   mooc: Coursera
-  university: Yonsei University
+  url: https://www.coursera.org/learn/learn-korean
+  category:
+    - coursera
+    - language
+    - korean
+  author: Yonsei University
   from: Feb 2017
   to: Mar 2017
   grade: 91.60%
   certificate_url: 
-  description:
-
-- title: The Art of Negotiation
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 91.00%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/98TZUQMNUE42
-  description:
-
-- title: Fundamentals of Management
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 92.50%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/E8ZGHSHX39JN
-  description:
-
-- title: Effective Problem-Solving and Decision-Making
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 92.50%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/FCGHNW3N6GUJ
-  description:
-
-- title: Finance for Non-Financial Professionals
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 89.70%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/VBR87RTT4B6L
-  description:
-
-- title: High-Impact Business Writing
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 91.90%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/P83WUBLSBTYF
-  description:
-
-
-- title: "Project Management: The Basics for Success"
-  mooc: Coursera
-  university: University of California, Irvine
-  from: Feb 2017
-  to: Feb 2017
-  grade: 95.80%
-  certificate_url: https://www.coursera.org/account/accomplishments/verify/CY5C6WLK4EHU
-  description:
+  note:
 
 - title: "Essentials of Entrepreneurship: Thinking & Action"
   mooc: Coursera
-  university: University of California, Irvine
+  url: https://www.coursera.org/learn/entrepreneurial-thinking
+  category:
+    - coursera
+    - business
+    - entrepreneurship
+  author: University of California, Irvine
   from: Feb 2017
   to: Feb 2017
   grade: 95.80%
   certificate_url: https://www.coursera.org/account/accomplishments/verify/7NURW5L4UHB3
-  description:
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: Effective Problem-Solving and Decision-Making
+  mooc: Coursera
+  url: https://www.coursera.org/learn/problem-solving
+  category: 
+    - coursera
+    - business
+    - business essentials
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 92.50%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/FCGHNW3N6GUJ
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: Fundamentals of Management
+  mooc: Coursera
+  url: https://www.coursera.org/learn/fundamentals-of-management
+  category:
+    - coursera
+    - business
+    - leadership
+    - management
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 92.50%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/E8ZGHSHX39JN
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: The Art of Negotiation
+  mooc: Coursera
+  url: https://www.coursera.org/learn/art-of-negotiation
+  category:
+    - coursera
+    - business
+    - business essentials 
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 91.00%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/98TZUQMNUE42
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: High-Impact Business Writing
+  mooc: Coursera
+  url: https://www.coursera.org/learn/business-writing
+  category:
+    - coursera
+    - business
+    - business essentials
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 91.90%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/P83WUBLSBTYF
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
 
 - title: Communication in the 21st Century Workplace
   mooc: Coursera
-  university: University of California, Irvine
+  url: https://www.coursera.org/learn/communication-in-the-workplace?specialization=career-success
+  category:
+    - coursera
+    - business
+    - business essentials
+  author: University of California, Irvine
   from: Feb 2017
   to: Feb 2017
   grade: 85.00%
   certificate_url: https://www.coursera.org/account/accomplishments/verify/52WU356KJTDW
-  description:
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: Finance for Non-Financial Professionals
+  mooc: Coursera
+  url: https://www.coursera.org/learn/finance-for-non-finance-managers?specialization=career-success
+  category: 
+    - coursera
+    - business
+    - finance
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 89.70%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/VBR87RTT4B6L
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
 
 - title: "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity"
   mooc: Coursera
-  university: University of California, Irvine
+  url: https://www.coursera.org/learn/work-smarter-not-harder
+  category:
+    - coursera
+    - business
+    - business essentials
+  author: University of California, Irvine
   from: Feb 2017
   to: Feb 2017
   grade: 96.40%
   certificate_url: https://www.coursera.org/account/accomplishments/verify/RDTYZMWSK7EZ
-  description: 
-               
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
+- title: "Project Management: The Basics for Success"
+  mooc: Coursera
+  url: https://www.coursera.org/learn/project-management-basics?specialization=career-success
+  category: 
+    - coursera
+    - business
+    - leadership
+    - management
+  author: University of California, Irvine
+  from: Feb 2017
+  to: Feb 2017
+  grade: 95.80%
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/CY5C6WLK4EHU
+  note: Career Success Specialization by University of California, Irvine (UCI Division of Continuing Education)
+
 - title: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
   mooc: Coursera
-  university: McMaster University & University of California San Diego
+  url: https://www.coursera.org/learn/learning-how-to-learn
+  category:
+    - coursera
+    - personal development
+  author: McMaster University & University of California San Diego
   from: Jan 2017
   to: Feb 2017
   grade: 97.80%
   certificate_url: 
-  description:
+  note:
 
 - title: Competitive Strategy
   mooc: Coursera
-  university: Ludwig-Maximilians-Universität München (LMU)
+  url: https://www.coursera.org/learn/competitive-strategy
+  category:
+    - coursera
+    - business
+    - business strategy
+  author: Ludwig-Maximilians-Universität München (LMU)
   from: Aug 2015
   to: Sep 2015
   grade: 96.50%
   certificate_url: 
-  description: 
+  note: 

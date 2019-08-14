@@ -7,27 +7,13 @@ weight: 4
 
 Di halaman ini berisikan pengalaman/keahlian saya, proyek yang terlibat, dan kelas/kursus/kuliah dalam bidang komputer/pemrograman. 
 
-## Keahlian
+## Pengalaman
 
-| Keahlian        | Level                 |                                            |
-| --------------- | --------------------- | ------------------------------------------ |
-| Pemrograman     | **Terbiasa**          | Python                                     |
-|                 | **Dasar**             | Matlab Fortran Pascal VBA/Macro            |
-|                 | *(sedang dipelajari)* | Python                                     |
-|                 |                       |                                            |
-| Python          | **Terbiasa**          | numpy pandas matplotlib                    |
-|                 | **Dasar**             | scipy sympy seaborn scikit-learn           |
-|                 | *(sedang dipelajari)* | numpy pandas keras                         |
-|                 |                       |                                            |
-| Office          | **Terbiasa**          | Microsoft-Office Google-Drive Google-Colab |
-|                 |                       |                                            |
-| Version Control | **Dasar**             | Git Github                                 |
-|                 |                       |                                            |
-| Editor          | **Terbiasa**          | VSCode Notepad++ Spyder Jupyter-Notebook   |
-|                 | **Dasar**             | JupyterLab                                 |
-|                 |                       |                                            |
-| Lain            | **Terbiasa**          | Markdown Latex                             |
-|                 | **Dasar**             | YAML Jekyll Liquid HTML/CSS                |
+- **programming**: python, matlab, fortran, pascal, vba/macro
+- **document**: microsoft office, google drive, google colab, markdown, latex
+- **version control**: git, github
+- **editor**: vscode, notepad++, spyder, jupyter notebook
+- **web**: html/css, liquid, jekyll
 
 -----
 

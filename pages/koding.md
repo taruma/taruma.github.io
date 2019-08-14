@@ -16,6 +16,7 @@ Di halaman ini berisikan pengalaman/keahlian, proyek yang terlibat, dan kelas/ku
 - **web**: html/css, liquid, jekyll
 
 <small> cat: yang ditebali berarti yang utama digunakan/terbiasa</small>
+
 -----
 
 ## Proyek

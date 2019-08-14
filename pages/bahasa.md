@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bahasa
-permalink: /bahasa/
+permalink: /bahasa
 weight: 6
 ---
 

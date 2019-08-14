@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang
-permalink: /tentang/
+permalink: /tentang
 weight: 3
 ---
 

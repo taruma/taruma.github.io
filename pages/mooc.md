@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MOOC
-permalink: /mooc/
+permalink: /mooc
 weight: 99
 ---
 

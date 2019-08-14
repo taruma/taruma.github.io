@@ -7,6 +7,8 @@ weight: 6
 
 Halaman ini menceritakan pengalaman saya menjelajahi dunia bahasa.
 
+-----
+
 <div align="center" markdown="1">
 ## Korean
 </div>

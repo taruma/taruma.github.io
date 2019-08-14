@@ -5,7 +5,7 @@ permalink: /bahasa
 weight: 6
 ---
 
-Halaman ini menceritakan pengalaman saya menjelajahi dunia bahasa.
+Halaman ini menceritakan pengalaman menjelajahi dunia bahasa.
 
 -----
 

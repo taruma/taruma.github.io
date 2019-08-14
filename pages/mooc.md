@@ -5,7 +5,9 @@ permalink: /mooc
 weight: 99
 ---
 
-Di halaman ini kamu bisa melihat daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah saya ambil. 
+Di halaman ini berisikan seluruh* daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah/sedang diambil. 
+
+<small> *: kursus dari lynda/linkedin dan skillshare belum ditulis.</small>
 
 <div align="center" markdown="1">
 ## Coursera

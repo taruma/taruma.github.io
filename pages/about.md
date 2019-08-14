@@ -22,5 +22,7 @@ Anda bisa menghubungi saya melalui email di hi@taruma.info atau melalui twitter 
 
 Informasi situs:
 - Tema: [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU) oleh [Youssef Raafat](https://github.com/YoussefRaafatNasry) dengan lisensi MIT.
-- Modifikasi tema oleh {{ site.author.name }}. _Source code_ situs ini bisa dilihat di [github](https://github.com/taruma.github.io).
+- Modifikasi tema oleh {{ site.author.name }}. _Source code_ situs ini bisa dilihat di [github](https://github.com/taruma.github.io) dengan lisensi MIT.
 - Seluruh gambar kecuali profil dibuat menggunakan [canva](https://www.canva.com/).
+- Favicon dibuat menggunakan [favicon.io](https://favicon.io/favicon-generator/).
+

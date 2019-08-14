@@ -1,0 +1,3 @@
+Dibuat menggunakan favicon.ico
+
+https://favicon.io/favicon-generator/?t=t.o&ff=Kranky&fs=110&fc=%23000&b=rounded&bc=%23FFF

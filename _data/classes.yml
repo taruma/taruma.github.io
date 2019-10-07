@@ -1,7 +1,7 @@
 - title: "Practical Latex: The First Course"
   mooc: Udemy
   university: "Tahir Yaqub"
-  from: Jul 2019
+  from: Oct 2019
   to: now
   grade: 
   certificate_url:
@@ -10,20 +10,20 @@
 - title: "Deep Learning and Machine Learning Practical Workout"
   mooc: Udemy
   university: "Dr. Ryan Ahmed, Ph.D., MBA, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Mitchell Bouchard"
-  from: Jul 2019
+  from: Oct 2019
   to: now
   grade: 
   certificate_url:
   description:
 
-- title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
-  mooc: Udemy
-  university: "Bibhash Roy"
-  from: Jul 2019
-  to: now
-  grade: 
-  certificate_url:
-  description:
+# - title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
+#   mooc: Udemy
+#   university: "Bibhash Roy"
+#   from: Jul 2019
+#   to: now
+#   grade: 
+#   certificate_url:
+#   description:
 
 - title: "GitHub Ultimate: Master Git and GitHub - Beginner to Expert"
   mooc: Udemy

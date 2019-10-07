@@ -1,30 +1,30 @@
-- title: "ASL - Seasonal"
-  mooc: MEMRISE
-  url: https://www.memrise.com/course/348285/asl-seasonal/
-  category:
-    - others
-    - language
-    - ASL
-  author: Diana.S
-  from: N/A
-  to: now
-  grade: 8/60
-  certificate_url: 
-  note:
+# - title: "ASL - Seasonal"
+#   mooc: MEMRISE
+#   url: https://www.memrise.com/course/348285/asl-seasonal/
+#   category:
+#     - others
+#     - language
+#     - ASL
+#   author: Diana.S
+#   from: N/A
+#   to: now
+#   grade: 8/60
+#   certificate_url: 
+#   note:
 
-- title: "American Sign Language 3"
-  mooc: MEMRISE
-  url: https://www.memrise.com/course/1652197/american-sign-language-3/
-  category:
-    - others
-    - language
-    - ASL
-  author: Diana.S
-  from: N/A
-  to: now
-  grade: 0/202
-  certificate_url: 
-  note:
+# - title: "American Sign Language 3"
+#   mooc: MEMRISE
+#   url: https://www.memrise.com/course/1652197/american-sign-language-3/
+#   category:
+#     - others
+#     - language
+#     - ASL
+#   author: Diana.S
+#   from: N/A
+#   to: now
+#   grade: 0/202
+#   certificate_url: 
+#   note:
 
 - title: "American Sign Language 2"
   mooc: MEMRISE

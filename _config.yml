@@ -1,6 +1,7 @@
 ### Site Settings ###
 title               : taruma.online
 description         : >-                               # >- means to ignore newlines until "url:"
+                      <br><h2>Taruma Sakti M.</h2><br>
                       (Music) Composer, (Python) Programmer, Blogger, Philomath/Lifelong Learning
 
 url                 : "https://taruma.online"          # base hostname & protocol for your site (e.g. http://example.com)

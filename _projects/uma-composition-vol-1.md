@@ -4,7 +4,6 @@ tools: [musik, partitur, komposisi]
 image: /assets/images/umacomp1-pages.jpg
 description: Sepuluh komposisi musik baru/lama dalam bentuk partitur musik.
 date: 2019-12-22
-permalink: projects/uma-composition-vol-1
 ---
 
 <img src="https://github.com/taruma/taruma.github.io/blob/master/assets/images/umacomp1-pages.jpg?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="UMA Composition Volume I">
@@ -28,7 +27,7 @@ No. | Judul | Instrumen | Tahun | Bar | Durasi
 9 | _Imaginary_ | Piano & Viola | 2010 | 79 | 5:33
 10 | _Missing_ | Piano / Synth | 2019 | 31 | 2:12
 
-*: _Twenty Eight_ merupakan _Twenty Two_ yang telah di-_transpose_ satu _note_ kebawah agar memudahkan dalam membaca partiturnya.
+*: _Twenty Eight_ merupakan _Twenty Two_ yang telah di _transpose_ satu _note_ kebawah agar memudahkan dalam membaca partiturnya.
 
 **: _Running_ telah diproduksi dan dapat didengar dalam album [Running]({% link _projects/2019-06-12-running.md %}). 
 

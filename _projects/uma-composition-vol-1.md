@@ -8,7 +8,7 @@ date: 2019-12-22
 
 <img src="https://github.com/taruma/taruma.github.io/blob/master/assets/images/umacomp1-pages.jpg?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="UMA Composition Volume I">
 
-__UMA Composition Volume I__ (Komposisi UMA Volume 1) merupakan kumpulan sepuluh musik baru/lama yang saya tulis ulang dalam bentuk partitur. Lisensi karya ini dibawah [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (untuk seluruh format).
+__UMA Composition Volume I__ (Komposisi UMA Volume 1) merupakan kumpulan sepuluh musik baru/lama yang saya tulis ulang dalam bentuk partitur. Lisensi karya ini menggunakan [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (untuk seluruh format). Karya dapat didengar melalui Youtube Playlist dibawah ini: 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLEpyefiQIAJppGv847HkJHszzYHxaI6Y2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ No. | Judul | Instrumen | Tahun | Bar | Durasi
 
 *: _Twenty Eight_ merupakan _Twenty Two_ yang telah di _transpose_ satu _note_ kebawah agar memudahkan dalam membaca partiturnya.
 
-**: _Running_ telah diproduksi dan dapat didengar dalam album [Running]({% link _projects/2019-06-12-running.md %}). 
+**: _Running_ telah diproduksi dan dapat didengar dalam album [Running](https://open.spotify.com/album/5XftxGYlElPdzKchBRba3A?si=8LMVjXkQRtaTfeWW3RLtog). 
 
 ## Unduh / Lihat
 
@@ -41,7 +41,7 @@ Partitur/Audio | Musescore | [Dengar](https://musescore.com/user/430006/sets/510
 Partitur/Audio | Youtube | [Lihat](https://www.youtube.com/playlist?list=PLEpyefiQIAJppGv847HkJHszzYHxaI6Y2) | -
 Partitur | PDF | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-pdf.zip %}) | -
 Audio | MIDI | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-midi.zip %}) | -
-Musescore 3.x | MSCZ | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-mcsz.zip %}) | - 
+Musescore 3.x | MSCZ | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-mscz.zip %}) | - 
 
 ## Catatan Produksi
 
@@ -53,5 +53,4 @@ Alat Produksi | Musik: [Musescore](https://musescore.org/en), [Piano From Above]
 . | Video: [Musescore](https://musescore.org/en)
 . | Gambar: [Canva](https://www.canva.com/)
 
- 
 Special Thanks: [@zeinyurianto](https://www.instagram.com/zeinyurianto/)

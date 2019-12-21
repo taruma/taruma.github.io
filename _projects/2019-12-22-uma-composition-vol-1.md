@@ -4,6 +4,7 @@ tools: [musik, partitur, komposisi]
 image: /assets/images/umacomp1-pages.jpg
 description: Sepuluh komposisi musik baru/lama dalam bentuk partitur musik.
 date: 2019-12-22
+permalink: projects/uma-composition-vol-1
 ---
 
 <img src="https://github.com/taruma/taruma.github.io/blob/master/assets/images/umacomp1-pages.jpg?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="UMA Composition Volume I">

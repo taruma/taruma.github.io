@@ -42,3 +42,16 @@ Partitur/Audio | Youtube | [Lihat](https://www.youtube.com/playlist?list=PLEpyef
 Partitur | PDF | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-pdf.zip %}) | -
 Audio | MIDI | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-midi.zip %}) | -
 Musescore 3.x | MSCZ | [Unduh]({% link assets/UMACompI/uma-comp-vol-1-mcsz.zip %}) | - 
+
+## Catatan Produksi
+
+Kegiatan | Keterangan
+:- | :-
+Tanggal Produksi | November-Desember 2019
+Durasi Produksi | 35+ Jam (Musescore)
+Alat Produksi | Musik: [Musescore](https://musescore.org/en), [Piano From Above](https://github.com/brian-pantano/PianoFromAbove), [AnthemScore](https://www.lunaverus.com/)
+. | Video: [Musescore](https://musescore.org/en)
+. | Gambar: [Canva](https://www.canva.com/)
+
+ 
+Special Thanks: [@zeinyurianto](https://www.instagram.com/zeinyurianto/)

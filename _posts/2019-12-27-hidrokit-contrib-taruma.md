@@ -2,21 +2,19 @@
 title: Daftar kontribusi di hidrokit.contrib
 tags: [hidrokit]
 style: fill
-color: info
+color: border
 description: Berisikan daftar kontribusi modul pada paket hidrokit oleh taruma.
 ---
 
 Halaman ini berisikan daftar kontribusi yang telah saya buat pada paket hidrokit, subpaket `contrib`. Modul-modul ini dapat diakses melalui `hidrokit.contrib.taruma` dilanjutkan dengan nama modul. Nama modul biasanya menyesuaikan dengan isu yang coba diatasi. 
 
-Pengenalan subpaket `contrib` di hidrokit dimulai dari versi hidrokit `0.3.2`.
+Pengenalan subpaket `contrib` di hidrokit dimulai dari versi hidrokit `0.3.2`. Referensi/manual dengan format PDF bisa diunduh di [halaman onedrive](https://1drv.ms/u/s!AmxSTa4UunElhoUQEzIaYJDj-NYiRQ?e=4Vay43).
 
 ## Daftar Modul
 
 Berikut daftar modul yang tersedia di `hidrokit.contrib.taruma` (paling atas = paling terbaru):
 
-### hidrokit 0.3.5 (unreleased)
-
-Modul-modul ini tersedia pada cabang `hidrokit@latest`.
+### hidrokit 0.3.5
 
 Isu | Modul | Keterangan | Pranala
 :- | :- | :- | :-

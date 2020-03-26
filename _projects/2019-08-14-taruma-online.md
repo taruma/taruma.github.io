@@ -1,5 +1,5 @@
 ---
-name: taruma.online
+name: taruma.github.io
 tools: [koding, website, open-source, jekyll]
 image: /assets/images/koding-site-taruma-pages.png
 description: Situs portofolio pribadi

@@ -2,7 +2,7 @@
 title: Daftar kontribusi di hidrokit.contrib
 tags: [hidrokit]
 style: fill
-color: border
+color: info
 description: Berisikan daftar kontribusi modul pada paket hidrokit oleh taruma.
 ---
 

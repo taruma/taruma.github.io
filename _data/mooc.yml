@@ -1,3 +1,31 @@
+- title: "Python Programming"
+  mooc: DataCamp
+  url: https://www.datacamp.com/tracks/python-programming?version=1
+  category:
+    - datacamp
+    - computer science
+    - python
+  author: DataCamp
+  from: Jan 2020
+  to: Jan 2020
+  grade: 
+  certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/3e844f29f9741991b3c3d9d939e10ea4123ee55c
+  note:
+
+- title: "Using Python for Research"
+  mooc: edX
+  url: https://www.edx.org/course/using-python-for-research
+  category:
+    - edx
+    - computer science
+    - python
+  author: Harvard
+  from: Oct 2019
+  to: Dec 2019
+  grade: 
+  certificate_url: https://courses.edx.org/certificates/d087c91ec7a4466b95d1410c7f5cf399
+  note:
+
 # - title: "ASL - Seasonal"
 #   mooc: MEMRISE
 #   url: https://www.memrise.com/course/348285/asl-seasonal/
@@ -96,36 +124,36 @@
   certificate_url: 
   note: 
 
-- title: "Deep Learning and Machine Learning Practical Workout"
-  mooc: Udemy
-  url: https://www.udemy.com/deep-learning-machine-learning-practical/
-  category:
-    - udemy
-    - computer science
-    - data science
-    - python
-  author: "Dr. Ryan Ahmed, Ph.D., MBA, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Mitchell Bouchard"
-  from: Jul 2019
-  to: now
-  grade: N/A
-  certificate_url:
-  note:
+# - title: "Deep Learning and Machine Learning Practical Workout"
+#   mooc: Udemy
+#   url: https://www.udemy.com/deep-learning-machine-learning-practical/
+#   category:
+#     - udemy
+#     - computer science
+#     - data science
+#     - python
+#   author: "Dr. Ryan Ahmed, Ph.D., MBA, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Mitchell Bouchard"
+#   from: Jul 2019
+#   to: now
+#   grade: N/A
+#   certificate_url:
+#   note:
 
-- title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
-  mooc: Udemy
-  url: https://www.udemy.com/git-basic-concept-fundamentals-github/
-  category:
-    - udemy
-    - computer science
-    - development
-    - git
-    - github
-  author: "Bibhash Roy"
-  from: Jul 2019
-  to: now
-  grade: N/A
-  certificate_url:
-  note:
+# - title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
+#   mooc: Udemy
+#   url: https://www.udemy.com/git-basic-concept-fundamentals-github/
+#   category:
+#     - udemy
+#     - computer science
+#     - development
+#     - git
+#     - github
+#   author: "Bibhash Roy"
+#   from: Jul 2019
+#   to: now
+#   grade: N/A
+#   certificate_url:
+#   note:
 
 - title: "GIS in QGIS 3 for beginners (project and e-book)"
   mooc: Udemy

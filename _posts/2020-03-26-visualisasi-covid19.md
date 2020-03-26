@@ -6,7 +6,9 @@ color: primary
 description: Visualisasi data infeksi COVID-19 di Indonesia menggunakan matplotlib.
 ---
 
-Visualisasi data infeksi COVID-19 di Indonesia menggunakan matplotlib.
+Halaman ini berisikan visualisasi data infeksi COVID-19 di Indonesia menggunakan matplotlib. Grafik dibawah ini **HANYA** mengolah data yang diperoleh dan memvisualisasikannya menggunakan python/matplotlib. Keterangan mengenai dataset bisa baca di _repository_ [taruma/inkovis](https://github.com/taruma/inkovis).
+
+Bagi yang ingin membuat grafik seperti dibawah ini dengan dataset sendiri dan untuk kasus apapun (tidak terbatas untuk COVID-19), dapat menggunakan modul/kode yang disediakan di _repository_ [taruma/inkovis](https://github.com/taruma/inkovis). Modul/kode menggunakan lisensi MIT. 
 
 ## Kasus Positif COVID-19
 

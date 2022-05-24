@@ -1,7 +1,7 @@
 ---
 name: UMA Composition Volume I
 tools: [musik, partitur, komposisi]
-# image: /assets/images/umacomp1-pages.jpg
+image: /assets/images/umacomp1-pages.jpg
 description: Sepuluh komposisi musik baru/lama dalam bentuk partitur musik.
 date: 2019-12-22
 ---

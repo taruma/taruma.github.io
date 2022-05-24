@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tentang
-permalink: /tentang
-weight: 3
+title: about
+permalink: /about
+weight: 99
 ---
 
 Halo! nama saya **{{ site.author.name }}**, atau biasa dipanggil dengan *‘Uma’*.

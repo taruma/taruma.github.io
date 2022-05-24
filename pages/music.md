@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Musik
-permalink: /musik
+title: music
+permalink: /music
 weight: 5
 ---
 

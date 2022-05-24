@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Koding
-permalink: /koding
+title: coding
+permalink: /coding
 weight: 4
 ---
 

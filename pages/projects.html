@@ -5,4 +5,19 @@ permalink: /projects/
 weight: 1
 ---
 
+<h2 class="text-center">Active Projects</h2>
+
+{% assign sorted = site.projects | where: "active", true | sort: "date" %}
+
 {% include projects/index.html %}
+
+<h2 class="text-center">Previous Projects</h2>
+
+{% assign sorted = site.projects | where: "active", false | sort: "date" | reverse %}
+
+{% include projects/index.html %}
+
+<div class="text-center my-3">
+    {% include elements/button.html link="/coding#proyek" text="coding projects" style="primary" %}
+    {% include elements/button.html link="/music#karya-musik" text="music projects" style="primary" %}
+</div>

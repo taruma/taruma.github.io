@@ -1,9 +1,10 @@
 ---
 name: UMA Composition Volume I
-tools: [musik, partitur, komposisi]
+tools: [music, partitur, komposisi]
 image: /assets/images/umacomp1-pages.jpg
 description: Sepuluh komposisi musik baru/lama dalam bentuk partitur musik.
 date: 2019-12-22
+active: false
 ---
 
 <img src="https://github.com/taruma/taruma.github.io/blob/master/assets/images/umacomp1-pages.jpg?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="UMA Composition Volume I">

@@ -1,8 +1,8 @@
 ---
 name: UMA Composition Volume I
-tools: [music, partitur, komposisi]
+tools: [music, sheet music, composition]
 image: /assets/images/umacomp1-pages.jpg
-description: 10 music sheets my old/new composition
+description: 10 sheets music my old/new composition
 date: 2019-12-22
 type: other
 ---

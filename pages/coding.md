@@ -23,7 +23,7 @@ Di halaman ini berisikan pengalaman/keahlian, proyek yang terlibat, dan kelas/ku
 
 Berikut daftar proyek yang terlibat.
 
-{% include proyek.html category="koding" %}
+{% include proyek.html category="coding" %}
 
 -----
 

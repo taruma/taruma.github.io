@@ -5,19 +5,20 @@ permalink: /projects/
 weight: 1
 ---
 
-<h2 class="text-center">Active Projects</h2>
+<h2 class="text-center mt-5"><i class="fas fa-star"></i> featured projects</h2>
 
-{% assign sorted = site.projects | where: "active", true | sort: "date" %}
-
-{% include projects/index.html %}
-
-<h2 class="text-center">Previous Projects</h2>
-
-{% assign sorted = site.projects | where: "active", false | sort: "date" | reverse %}
+{% assign sorted = site.projects | where: "featured", true | sort: "date" | reverse %}
 
 {% include projects/index.html %}
 
-<div class="text-center my-3">
-    {% include elements/button.html link="/coding#proyek" text="coding projects" style="primary" %}
-    {% include elements/button.html link="/music#karya-musik" text="music projects" style="primary" %}
-</div>
+<h2 class="text-center"><i class="fas fa-terminal"></i> coding projects</h2>
+
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'coding'" | sort: "date" | reverse %}
+
+{% include projects/index.html %}
+
+<h2 class="text-center"><i class="far fa-lightbulb"></i> other projects</h2>
+
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'other'" | sort: "date" | reverse %}
+
+{% include projects/index.html %}

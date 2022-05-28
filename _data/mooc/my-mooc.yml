@@ -404,21 +404,6 @@
 
 ## Udemy
 
-# - title: "Practical Latex: The First Course"
-#   mooc: Udemy
-#   url: https://www.udemy.com/practical-latex-the-first-course/
-#   category:
-#     - udemy
-#     - computer science
-#     - latex
-#   author: "Tahir Yaqub"
-#   from: 2019-07-01
-#   to: 8888-01-01
-#   grade:
-#   certificate_url: 
-#   note:
-#   status: hold
-
 - title: "GitHub Ultimate: Master Git and GitHub - Beginner to Expert"
   mooc: Udemy
   url: https://www.udemy.com/github-ultimate/

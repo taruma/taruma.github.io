@@ -1,51 +1,64 @@
 ### Site Settings ###
-title               : taruma.github.io
+title               : taruma's portfolio
 description         : >-                               # >- means to ignore newlines until "url:"
-                      <br><h2>Taruma Sakti M.</h2><br>
-                      (Music) Composer, (Python) Programmer, Blogger, Philomath/Lifelong Learning
-
-url                 : "https://taruma.github.io"          # base hostname & protocol for your site (e.g. http://example.com)
+                      <br><h2>taruma sakti m.</h2><br>
+                      Self-Taught Programmer | <a href="https://en.wiktionary.org/wiki/Pythonista" target="_blank">Pythonista</a> | Data Science | Hydroinformatics | Civil Engineering | (Music) Composer
 baseurl             : ""                               # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-repository          : taruma/taruma.github.io          # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
-remote_theme        : YoussefRaafatNasry/portfolYOU@v2.0.0    # uncomment this if you are using it as a remote theme
+remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+open_new_tab        : true
+
+### Build Settings ###
+plugins:
+  - jemoji
+
+### Navbar Settings ###
+nav_exclude:                        # Pages with the following paths will be excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/mooc.md
+  - documentation/partials/**                           # For Documentation Only
 
 ### Author Info ###
 author:
-  name              : Taruma Sakti Megariansyah
+  name              : taruma sakti megariansyah
   image             : assets/images/my-profpic-2019.jpg
-# behance           : your_username
-# dribbble          : your_username
   email             : hi@taruma.info
-  # facebook          : your_username
   github            : taruma
-# gitlab            : your_username
   instagram         : tarumainfo
   linkedin          : taruma
   medium            : taruma
   soundcloud        : taruma-sakti
   spotify           : 12141012102
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
+  twitch            : tarumainfo
   twitter           : tarumainfo
-# vimeo             : your_username
   youtube           : tarumainfo
 
+### Posts Permalink ###
+permalink: blog/:title
 
 ### Pagination ###
 paginate: 6
-paginate_path: "/articles/page-:num/"
-
-
-### Posts Permalink ###
-permalink: articles/:title
-
+paginate_path: "/blog/page-:num/"
 
 ### Collections ###
 collections:
   projects:
     output: true
     permalink: /projects/:name
+  elements:
+    output: true
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: true
+  username: taruma
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
 
 
 ### Defaults for collections ###
@@ -55,12 +68,21 @@ defaults:
       type: "projects"
     values:
       layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
 
 
 ### Exclude from processing ###
 exclude:
-- README.md
-- CONTRIBUTING.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

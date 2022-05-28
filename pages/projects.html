@@ -1,13 +1,30 @@
 ---
 layout: default
-title: Proyek
-permalink: /proyek
+title: projects
+permalink: /projects
 weight: 1
-# remote_projects:
-# - hidrokit
-# - hidrokit-nb
-# - umakit
-# - belajar-tsa
 ---
+
+<h2 class="text-center mt-5"><i class="fas fa-star"></i> featured projects</h2>
+
+{% assign sorted = site.projects | where: "featured", true | sort: "date" | reverse %}
+
+{% include projects/index.html %}
+
+<h2 class="text-center"><i class="fas fa-terminal"></i> coding projects</h2>
+
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'coding'" | sort: "date" | reverse %}
+
+{% include projects/index.html %}
+
+<h2 class="text-center"><i class="fa-solid fa-circle-play"></i> music projects</h2>
+
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'music'" | sort: "date" | reverse %}
+
+{% include projects/index.html %}
+
+<h2 class="text-center"><i class="fa-brands fa-spotify"></i> playlist projects</h2>
+
+{% assign sorted = site.projects | where_exp: "item", "item.type == 'playlist'" | sort: "date" | reverse %}
 
 {% include projects/index.html %}

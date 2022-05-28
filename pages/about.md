@@ -1,29 +1,23 @@
 ---
 layout: page
-title: Tentang
-permalink: /tentang
-weight: 3
+title: about
+permalink: /about
+weight: 99
 ---
 
-Halo! nama saya **{{ site.author.name }}**, atau biasa dipanggil dengan *‘Uma’*.
+<div id="container" class="my-2">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" width="200" class="wow animated zoomIn" style="border-radius: 50%"
+            data-wow-delay=".1s">
+</div>
 
-Situs ini dibuat sebagai situs portofolio kreatif dan mencatat pengalaman pribadi dalam bertualang mempelajari hal yang baru dan menarik bagi saya. Situs ini memisahkan saya dengan dunia akademis yang saya tempuh. 
+Halo! Perkenalkan nama saya **Taruma Sakti Megariansyah** atau biasa dipanggil dengan **Uma**. Saya merupakan lulusan program studi Teknik Sipil pada bidang Sumberdaya Air. Ketertarikan saya adalah membahas penggunaan teknologi pada bidang sumberdaya air atau pada umumnya. Saat ini, saya penasaran dengan dunia _data science_ dan penerapan teknologi _machine learning_. Harapan saya adalah ketertarikan saya terhadap teknologi tersebut dapat diaplikasikan dalam bidang sumberdaya air, khususnya di Indonesia.
+
+Situs ini dibuat sebagai situs portofolio saya dan mencatat pengalaman pribadi saya dalam berpetualang mempelajari hal yang baru dan menarik bagi saya.
 
 Berikut halaman-halaman yang tersedia di situs ini:
-- [**proyek**](/proyek): kumpulan proyek kreatif yang terlibat.
-- [**koding**](/koding): halaman pengalaman dalam koding/memprogram.
-- [**musik**](/musik): halaman menceritakan pengalaman dalam bermusik dan mengurasi musik.
-- [**bahasa**](/bahasa): halaman pengalaman belajar bahasa.
-- [**mooc**](/mooc): halaman daftar MOOC (*Massive Open Online Course*) / Kursus / Kuliah *online* yang telah / sedang diambil.
 
-Anda bisa menghubungi saya melalui email di `hi@taruma.info` atau melalui twitter [@tarumainfo](https://twitter.com/tarumainfo). 
+- [**projects**]({%- link pages/projects.html -%}): kumpulan proyek kreatif yang terlibat.
+- [**coding**]({%- link pages/coding.md -%}): halaman pengalaman saya dalam mempelajari dan bereksperimen di dunia pemrograman.
+- [**music**]({%- link pages/music.md -%}): halaman petualangan saya dalam bermusik baik membuat komposisi musik atau sekedar mengurasi musik.
 
----
-
-Informasi situs:
-- Menggunakan tema [portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU) oleh [Youssef Raafat](https://github.com/YoussefRaafatNasry) dengan lisensi MIT.
-- Modifikasi tema oleh {{ site.author.name }}. _Source code_ situs ini bisa dilihat di [github](https://github.com/taruma/taruma.github.io).
-- Seluruh gambar kecuali profil dibuat menggunakan [canva](https://www.canva.com/) oleh {{ site.author.name }}.
-- Favicon dibuat menggunakan [favicon.io](https://favicon.io/favicon-generator/) oleh {{ site.author.name }}.
-- Situs ini menggunakan layanan gratis [Github Pages](https://pages.github.com/).
-
+Anda bisa menghubungi saya melalui sosial media/email yang tertera di bawah halaman. Terima kasih! 🙏

@@ -1,31 +1,30 @@
 ---
 layout: page
-title: MOOC
+title: mooc
 permalink: /mooc
-weight: 99
+weight: 98
 ---
 
-Di halaman ini berisikan seluruh* daftar [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course) (Massive Open Online Course) yang pernah/sedang diambil. 
+# My MOOC/Course Experience
 
-<small> *: kursus dari lynda/linkedin dan skillshare belum ditulis.</small>
-
-<div align="center" markdown="1">
 ## Coursera
-</div>
+
 {% include mooc.html category="coursera" %}
 
------
-<div align="center" markdown="1">
 ## edX
-</div>
+
 {% include mooc.html category="edx" %}
 
------
-<div align="center" markdown="1">
+## datacamp
+
+{% include mooc.html category="datacamp" %}
+
 ## Udemy
-</div>
+
 {% include mooc.html category="udemy" %}
 
------
-## Others
-{% include mooc.html category="others" %}
+## Kominfo
+
+{% include mooc.html category="kominfo" %}
+
+

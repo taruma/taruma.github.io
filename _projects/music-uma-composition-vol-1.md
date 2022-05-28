@@ -4,7 +4,7 @@ tools: [music, sheet music, composition]
 image: /assets/images/umacomp1-pages.jpg
 description: 10 sheets music my old/new composition
 date: 2019-12-22
-type: other
+type: music
 ---
 
 <img src="https://github.com/taruma/taruma.github.io/blob/master/assets/images/umacomp1-pages.jpg?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="UMA Composition Volume I">

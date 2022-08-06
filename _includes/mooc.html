@@ -34,6 +34,8 @@
 
     {% if course.status == "hold" %}
     {% assign date_to = "hold" %}
+    {% elsif course.status == "later" %}
+    {% assign date_to = "later" %}
     {% else %}
     {% assign date_to = "now" %}
     {% endif %}

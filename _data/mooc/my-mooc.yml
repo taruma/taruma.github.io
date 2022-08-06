@@ -526,7 +526,7 @@
     - OOP
   author: Dr. Ryan Ahmed, Ph.D., MBA, Ligency I Team, Mitchell Bouchard, Ligency Team
   from: 2019-07-18
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -542,7 +542,7 @@
     - interview
   author: Jose Portilla
   from: 2019-11-24
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -559,11 +559,11 @@
     - machine learning
   author: Andrei Neagoie, Daniel Bourke, Zero To Mastery
   from: 2021-05-02
-  to: 8888-01-01
+  to: 9999-01-01
   grade: 
   certificate_url: 
   note: 
-  status: later
+  status: 
 
 - title: "Git & GitHub Complete Masterclass : Beginner to Git Expert"
   mooc: Udemy
@@ -576,7 +576,7 @@
     - github
   author: Bibhash Roy, GoKoders Academy
   from: 2019-04-26
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -593,7 +593,7 @@
     - css
   author: Dr. Angela Yu
   from: 2022-04-26
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -610,7 +610,7 @@
     - css
   author: Jonas Schmedtmann
   from: 2022-05-27
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -626,7 +626,7 @@
     - time series
   author: Jose Portilla
   from: 2019-11-24
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -641,7 +641,7 @@
     - javascript
   author: Jonas Schmedtmann
   from: 2022-04-26
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -657,7 +657,7 @@
     - python
   author: Jose Portilla
   from: 2022-04-26
-  to: 8888-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -665,18 +665,38 @@
 
 ## Kominfo
 
-- title: Machine Learning with Tensorflow (MLT2)
+- title: Machine Learning with Tensorflow
   mooc: Kominfo
   url: https://digitalent.kominfo.go.id/detail/pelatihan/2360
   category:
     - kominfo
     - computer science
+    - python
     - tensorflow
     - machine learning
   author: Google & Techready  
   from: 2022-05-17
-  to: 9999-01-01
+  to: 2022-08-08
   grade: 
   certificate_url: 
   note: 
   status: 
+
+## Algoritma School
+
+- title: Data Science Academy Full Stack
+  mooc: algoritma
+  url: https://algorit.ma/data-science-lifetime/
+  category:
+    - algoritma
+    - computer science
+    - python
+    - R
+    - machine learning
+  author: algoritma
+  from: 2022-09-05
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later

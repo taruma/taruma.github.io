@@ -4,7 +4,7 @@ description         : >-                               # >- means to ignore newl
                       <br><h2>taruma sakti m.</h2><br>
                       Self-Taught Programmer | <a href="https://en.wiktionary.org/wiki/Pythonista" target="_blank">Pythonista</a> | Data Science | Hydroinformatics | Civil Engineering | (Music) Composer
 baseurl             : ""                               # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
-remote_theme        : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
+remote_theme        : YoussefRaafatNasry/portfolYOU@v2.3.0    # uncomment this if you are using it as a remote theme
 open_new_tab        : true
 
 ### Build Settings ###

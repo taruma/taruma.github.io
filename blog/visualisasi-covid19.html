@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+    
+    
+    
+
+    
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Visualisasi Covid-19 di Indonesia">
+    <meta property="og:description" content="Visualisasi data infeksi COVID-19 di Indonesia menggunakan matplotlib.">
+    <meta property="og:image" content="assets/images/my-profpic-2019.jpg">
+
+    <title>Visualisasi Covid-19 di Indonesia</title>
+    <meta name="description" content="Visualisasi data infeksi COVID-19 di Indonesia menggunakan matplotlib.">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+    <!-- Theme style -->
+    <script src="/assets/js/theme.js"></script>
+
+    <!-- Font Awesome CDN -->
+    <script src="https://kit.fontawesome.com/3d216d8644.js" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+
+    <!-- Animate CSS CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+</head>
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    <nav class="navbar navbar-expand-lg navbar-themed">
+
+  <a class="navbar-brand" href="/"><h5><b>taruma's portfolio</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/"></a>
+
+      <a class="nav-item nav-link " href="/projects">projects</a>
+
+      <a class="nav-item nav-link active" href="/blog">blog</a>
+
+      <a class="nav-item nav-link " href="/coding">coding</a>
+
+      <a class="nav-item nav-link " href="/music">music</a>
+
+      <a class="nav-item nav-link " href="/about">about</a>
+
+      
+
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+
+</nav>
+    <div class="col-lg-10 mx-auto mt-5 post">
+  <h1><b>Visualisasi Covid-19 di Indonesia</b></h1>
+
+<p class="post-metadata text-muted">
+  26 March 2020 -  
+  <b>2 mins read time</b>
+
+  <br>Tags: 
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#python">
+      <span class="tag badge badge-pill text-primary border border-primary">python</span>
+    </a>
+    </p>
+
+<p>Halaman ini berisikan visualisasi data infeksi COVID-19 di Indonesia menggunakan modul <code class="language-plaintext highlighter-rouge">inkovis</code>. Grafik dibawah ini <strong>HANYA</strong> mengolah data yang diperoleh dan memvisualisasikannya menggunakan matplotlib. Keterangan mengenai dataset bisa baca di <em>repository</em> <a href="https://github.com/taruma/inkovis">taruma/inkovis</a>.</p>
+
+<p>Bagi yang ingin membuat grafik seperti dibawah ini dengan dataset sendiri dan untuk kasus apapun (tidak terbatas untuk COVID-19), dapat menggunakan modul/kode yang disediakan di <em>repository</em> <a href="https://github.com/taruma/inkovis">taruma/inkovis</a>. Modul/kode menggunakan lisensi MIT.</p>
+
+<h2 id="visualisasi-data-15-hari-terakhir-harian">Visualisasi Data 15 Hari Terakhir (Harian)</h2>
+
+<h3 id="kasus-konfirmasi">Kasus Konfirmasi</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/KASUS_KONFIRMASI_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Kasus Konfirmasi Positif COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Kasus Konfirmasi Positif COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+<h3 id="jumlah-spesimen">Jumlah Spesimen</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/JUMLAH_SPESIMEN_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Jumlah Spesimen COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Jumlah Spesimen COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+<h3 id="perkembangan-konfirmasi">Perkembangan Konfirmasi</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/PERKEMBANGAN_KASUS_KONFIRMASI_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Perkembangan Kasus Konfirmasi COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Perkembangan Kasus Konfirmasi COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+<h3 id="perkembangan-spesimen">Perkembangan Spesimen</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/PERKEMBANGAN_JUMLAH_SPESIMEN_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Perkembangan Jumlah Spesimen COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Perkembangan Jumlah Spesimen COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+<h3 id="konfirmasi-dan-perkembangan">Konfirmasi dan Perkembangan</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/KONFIRMASI_PERKEMBANGAN_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Kasus Konfirmasi dan Perkembangan COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Kasus Konfirmasi dan Perkembangan COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+<h3 id="spesimen-dan-perkembangan">Spesimen dan Perkembangan</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/SPESIMEN_PERKEMBANGAN_15AKHIR_HARIAN.png" class="figure-img img-fluid rounded" alt="Jumlah Spesimen dan Perkembangan COVID-19 (15 Hari Terakhir Harian)" />
+    <figcaption class="figure-caption text-center">Jumlah Spesimen dan Perkembangan COVID-19 (15 Hari Terakhir Harian)</figcaption>
+</figure>
+
+<h2 id="visualisasi-seluruh-data-per-2-hari">Visualisasi Seluruh Data (Per 2 Hari)</h2>
+
+<h3 id="kasus-konfirmasi-1">Kasus Konfirmasi</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/KASUS_KONFIRMASI_S_2HARI.png" class="figure-img img-fluid rounded" alt="Kasus Konfirmasi Positif COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Kasus Konfirmasi Positif COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+<h3 id="jumlah-spesimen-1">Jumlah Spesimen</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/JUMLAH_SPESIMEN_S_2HARI.png" class="figure-img img-fluid rounded" alt="Jumlah Spesimen COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Jumlah Spesimen COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+<h3 id="perkembangan-konfirmasi-1">Perkembangan Konfirmasi</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/PERKEMBANGAN_KASUS_KONFIRMASI_S_2HARI.png" class="figure-img img-fluid rounded" alt="Perkembangan Kasus Konfirmasi COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Perkembangan Kasus Konfirmasi COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+<h3 id="perkembangan-spesimen-1">Perkembangan Spesimen</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/PERKEMBANGAN_JUMLAH_SPESIMEN_S_2HARI.png" class="figure-img img-fluid rounded" alt="Perkembangan Jumlah Spesimen COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Perkembangan Jumlah Spesimen COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+<h3 id="konfirmasi-dan-perkembangan-1">Konfirmasi dan Perkembangan</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/KONFIRMASI_PERKEMBANGAN_S_2HARI.png" class="figure-img img-fluid rounded" alt="Kasus Konfirmasi dan Perkembangan COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Kasus Konfirmasi dan Perkembangan COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+<h3 id="spesimen-dan-perkembangan-1">Spesimen dan Perkembangan</h3>
+
+<figure class="figure w-100">
+  <img src="https://github.com/taruma/inkovis/raw/master/notebook/IMG/SPESIMEN_PERKEMBANGAN_S_2HARI.png" class="figure-img img-fluid rounded" alt="Jumlah Spesimen dan Perkembangan COVID-19 (Seluruh Data Per 2 Hari)" />
+    <figcaption class="figure-caption text-center">Jumlah Spesimen dan Perkembangan COVID-19 (Seluruh Data Per 2 Hari)</figcaption>
+</figure>
+
+
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+    <small class="text-muted mb-2">
+        <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+        by <strong>taruma sakti megariansyah</strong>
+    </small>
+
+    <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:hi@taruma.info"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.instagram.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#405de6'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-instagram fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1"  href="https://medium.com/@taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#00ab6c'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-medium fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.soundcloud.com/taruma-sakti"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#ff8800'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-soundcloud fa-1x"></i>
+    </a><a class="social mx-1"  href="https://open.spotify.com/user/12141012102"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1db954'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-spotify fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitch.tv/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#6441a5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitch fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitter.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1da1f2'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.youtube.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#ff0000'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-youtube fa-1x"></i>
+    </a>
+
+</div>
+
+    <small id="attribution" class="text-muted mb-2">
+        <a href="https://youssefraafatnasry.github.io/portfolYOU">portfolYOU</a> Theme. Powered by <a
+            href="https://pages.github.com/">Github Pages</a>
+    </small>
+
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+
+</body>
+
+</html>

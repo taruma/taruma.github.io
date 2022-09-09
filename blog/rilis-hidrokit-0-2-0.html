@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+    
+    
+    
+
+    
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Rilis hidrokit 0.2.0">
+    <meta property="og:description" content="Rilisnya hidrokit 0.2.0 disertai situs resminya. Penjelasan mengenai proyek hidrokit 0.2.0.">
+    <meta property="og:image" content="assets/images/my-profpic-2019.jpg">
+
+    <title>Rilis hidrokit 0.2.0</title>
+    <meta name="description" content="Rilisnya hidrokit 0.2.0 disertai situs resminya. Penjelasan mengenai proyek hidrokit 0.2.0.">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+    <!-- Theme style -->
+    <script src="/assets/js/theme.js"></script>
+
+    <!-- Font Awesome CDN -->
+    <script src="https://kit.fontawesome.com/3d216d8644.js" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+
+    <!-- Animate CSS CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+</head>
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    <nav class="navbar navbar-expand-lg navbar-themed">
+
+  <a class="navbar-brand" href="/"><h5><b>taruma's portfolio</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/"></a>
+
+      <a class="nav-item nav-link " href="/projects">projects</a>
+
+      <a class="nav-item nav-link active" href="/blog">blog</a>
+
+      <a class="nav-item nav-link " href="/coding">coding</a>
+
+      <a class="nav-item nav-link " href="/music">music</a>
+
+      <a class="nav-item nav-link " href="/about">about</a>
+
+      
+
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+
+</nav>
+    <div class="col-lg-10 mx-auto mt-5 post">
+  <h1><b>Rilis hidrokit 0.2.0</b></h1>
+
+<p class="post-metadata text-muted">
+  15 July 2019 -  
+  <b>10 mins read time</b>
+
+  <br>Tags: 
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#python">
+      <span class="tag badge badge-pill text-primary border border-primary">python</span>
+    </a>
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#hidrokit">
+      <span class="tag badge badge-pill text-primary border border-primary">hidrokit</span>
+    </a>
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#open-source">
+      <span class="tag badge badge-pill text-primary border border-primary">open-source</span>
+    </a>
+    </p>
+
+<p><a href="https://medium.com/@taruma/hidrokit-analisis-hidrologi-dengan-python-bdcad9e5865d">Enam bulan yang lalu</a>, saya merilis hidrokit 0.1.0. Pada saat itu, banyak sekali kekurangan dari segi dokumentasi maupun teknis sehingga cukup sulit untuk memulai berkontribusi bagi yang tertarik untuk ikut serta dalam proyek <em>open-source</em> ini. Dengan rilis 0.2.0, saya mencoba menjawab permasalahan tersebut dengan menyertai berbagai fitur untuk paket python hidrokit maupun dokumentasi sehingga memudahkan berkontribusi bagi yang tertarik dengan proyek ini.</p>
+
+<h2 id="pengenalan">Pengenalan</h2>
+
+<p>Hidrokit merupakan proyek <em>open-source</em> paket/<em>package</em> python yang dapat digunakan untuk membantu proses analisis hidrologi berupa pengolahan data, analisis data, dan visualisasi data. Saat ini, proyek ini masih <strong>dalam tahap pengembangan</strong>, sehingga untuk penggunaan praktis belum memadai. Proyek ini cocok bagi yang tertarik untuk ikut serta dalam proyek <em>open-source</em> karena masih dalam tahap awal pengembangan. Dengan proyek ini, hidrokit juga bertujuan membangun komunitas pengguna python (jupyter notebook) dan para praktisi atau akademisi yang memanfaatkan python dalam bidang hidrologi.</p>
+
+<p>Baca <a href="https://taruma.github.io/hidrokit/tentang-hidrokit">abstrak dan tujuan hidrokit</a> untuk informasi lebih lanjut.</p>
+
+<p>Jika ingin langsung melihat kegunaan hidrokit (python dan jupyter notebook) bisa lihat contoh notebook berikut:</p>
+<ul>
+  <li><strong>Prediksi Kualitas Air menggunakan Metode <em>Artificial Neural Networks</em> oleh taruma</strong>. <a href="https://nbviewer.jupyter.org/github/taruma/hidrokit-nb/blob/master/notebook/taruma_demo_ann_ka_2_0_0.ipynb">Lihat melalui NBViewer</a>.</li>
+  <li><strong>Daftar tutorial fungsi/modul pada hidrokit dapat dilihat di</strong> <a href="https://notebook.hidrokit.online/kumpulan-notebook#hidrokit-"><strong>halaman ini</strong></a>.</li>
+</ul>
+
+<p>Jika Anda tertarik berkontribusi pada proyek ini, baca bagian <a href="#berkontribusi">kontribusi</a>. Proyek ini terbuka untuk berbagai latar belakang dan tingkat keahlian. Saya juga telah membuat tanya jawab seputar proyek ini pada bagian <a href="#frequently-asked-questions">FAQ</a>.</p>
+
+<hr />
+<h2 id="apa-yang-baru-di-hidrokit-020">Apa yang baru di hidrokit 0.2.0?</h2>
+
+<p>Pada hidrokit 0.2.0, pengembangan python diusahakan untuk mengikuti standar yang ada dimulai dari <em>packaging</em>, <em>versioning</em>, <em>testing</em>, dan <em>continous integration</em>. Hal tersebut mengakibatkan hidrokit 0.2.0 tidak <em>backward-compatibility</em> dengan hidrokit 0.1.x. Diharapkan dengan struktur sekarang, hidrokit 0.2.0 memiliki kapasitas untuk <em>forward-compatibility</em> dan memudahkan bagi <em>developer</em> mengembangkan fitur baru atau memperbaiki fitur.</p>
+
+<p>Dengan rilisnya hidrokit 0.2.0, diperkenalkan <strong>tiga</strong> situs utama yang berhubungan dengan proyek ini.</p>
+<ul>
+  <li><a href="https://taruma.github.io/hidrokit">hidrokit.online</a>: Situs resmi proyek hidrokit yang berisikan dokumentasi berupa tentang hidrokit (tujuan/abstrak), tutorial/panduan berkontribusi, dll.</li>
+  <li><a href="https://taruma.github.io/hidrokit-nb">notebook.hidrokit.online</a>: Situs pelengkap yang berisikan kumpulan jupyter notebook mengenai penggunaan hidrokit dan pemanfaatan python dalam bidang hidrologi.</li>
+  <li><a href="https://hidrokit.readthedocs.io">hidrokit.readthedocs.io</a>: Situs berbahasa inggris yang digunakan sebagai dokumentasi teknis berisikan daftar lengkap <em>Application Programming Interface</em> (API) yang tersedia di proyek hidrokit. Situs ini ditujukan untuk pengembang / <em>developer</em>.</li>
+</ul>
+
+<p>Dibuatnya situs agar memudahkan akses informasi melalui berbagai media (komputer, telepon genggam). Navigasi dan tampilan pada situs juga lebih mudah dibandingkan melalui halaman github karena halaman github lebih ditujukan untuk <em>developer</em>.</p>
+
+<div align="center">
+  <p><strong>Berikut daftar perubahan di hidrokit 0.2.0</strong></p>
+</div>
+
+<hr />
+<h2 id="hidrokit-020">hidrokit 0.2.0</h2>
+
+<p class="text-center">
+<a class="m-1 btn btn-outline-primary btn-sm " href="https://github.com/taruma/hidrokit">
+  Repository
+</a>
+</p>
+
+<p>Perubahan berikut ditujukan untuk membuat proyek hidrokit lebih terstruktur dan lebih mudah untuk dikembangkan lebih lanjut.  Berikut perubahan penting hidrokit 0.1.x ke 0.2.0:</p>
+
+<p><strong>Baru</strong></p>
+<ul>
+  <li>Paket dibagi menjadi tiga subpaket (<em>subpackage</em>) utama yaitu persiapan (<code class="language-plaintext highlighter-rouge">hidrokit.prep</code>), analisis (<code class="language-plaintext highlighter-rouge">hidrokit.analysis</code>), dan visualisasi (<code class="language-plaintext highlighter-rouge">hidrokit.viz</code>).</li>
+  <li>Integrasi <a href="https://travis-ci.org/taruma/hidrokit">travis-ci</a>, <a href="https://codecov.io/gh/taruma/hidrokit">codecov</a>, <a href="https://app.codacy.com/project/taruma/hidrokit/dashboard">codacy</a>.</li>
+  <li>Testing menggunakan <a href="https://pytest.org/">pytest</a> dengan 90%+ <em>coverage</em>.</li>
+  <li>Situs khusus untuk dokumentasi teknis di <a href="https://hidrokit.readthedocs.io">hidrokit.readthedocs.io</a> yang berisikan daftar API hidrokit dibangkitkan menggunakan <em>docstring</em>.</li>
+</ul>
+
+<p><strong>Perubahan</strong></p>
+<ul>
+  <li>Penamaan modul dan fungsi diubah dan disesuaikan dengan <a href="https://www.python.org/dev/peps/pep-0008/">standar PEP8</a>.</li>
+  <li>Fungsi pada modul berikut digantikan dengan modul baru dibawah subpaket baru.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Modul di 0.1.x</th>
+      <th style="text-align: left">0.2.0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">dlkit</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prep.timeseries</code> dan <code class="language-plaintext highlighter-rouge">viz.graph</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">viewkit</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">viz.table</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prepkit</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prep.excel</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">datakit</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prep.read</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Perubahan nama fungsi agar lebih jelas dan mengubah fungsi yang bukan ditujukan untuk penggunaan menjadi <em>private function</em>.
+    <ul>
+      <li>Seluruh fungsi pada <code class="language-plaintext highlighter-rouge">prepkit</code> yang berfungsi membaca berkas <em>excel</em>, untuk sementara menjadi <em>private function</em>.</li>
+      <li>Perubahan nama fungsi pada <code class="language-plaintext highlighter-rouge">dlkit</code> dan <code class="language-plaintext highlighter-rouge">datakit</code>.</li>
+    </ul>
+  </li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Nama Fungsi di 0.1.x</th>
+      <th style="text-align: left">0.2.0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">dlkit.plot_dataset</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">viz.graph.subplots</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">datakit.dict_null_data</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prep.read.missing_row</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Fungsi column timesteps</td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">prep.timeseries.timestep_table</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">- <code class="language-plaintext highlighter-rouge">dlkit.single_column_timesteps</code></td>
+      <td style="text-align: left"><em>private</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">- <code class="language-plaintext highlighter-rouge">dlkit.multi_column_timesteps</code></td>
+      <td style="text-align: left"><em>private</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Penghilangan</strong></p>
+<ul>
+  <li>Modul <code class="language-plaintext highlighter-rouge">bmkgkit</code> dihapuskan dan tidak digantikan.</li>
+  <li>Modul berikut ini telah dihapus/digantikan sehingga tidak dapat digunakan lagi:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">dlkit</code>, <code class="language-plaintext highlighter-rouge">viewkit</code>, <code class="language-plaintext highlighter-rouge">bmkgkit</code>, <code class="language-plaintext highlighter-rouge">prepkit</code>, <code class="language-plaintext highlighter-rouge">datakit</code>.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- LINK -->
+
+<hr />
+<h2 id="situs-hidrokit">Situs hidrokit</h2>
+
+<p><img src="https://github.com/taruma/hidrokit/blob/gh-pages/assets/images/presskit/hidrokit-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="Logo Hidrokit" /></p>
+
+<p class="text-center">
+<a class="m-1 btn btn-outline-primary btn-sm " href="https://taruma.github.io/hidrokit">
+  Situs
+</a>
+<a class="m-1 btn btn-outline-primary btn-sm " href="https://github.com/taruma/hidrokit/tree/gh-pages">
+  Repository
+</a>
+</p>
+
+<p>Situs hidrokit digunakan sebagai situs utama untuk memperoleh informasi mengenai proyek ini. Situs ini dibuat menggunakan <a href="https://jekyllrb.com/">Jekyll</a> dan <a href="https://pages.github.com/">Github Pages</a> <em>hosting</em>. <em>Repository</em> situs dapat diakses di <a href="https://github.com/taruma/hidrokit/tree/gh-pages">cabang gh-pages</a>.</p>
+
+<p>Berikut halaman penting yang tersedia pada situs hidrokit:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Halaman</th>
+      <th style="text-align: left">Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/tentang-hidrokit">tentang-hidrokit</a></td>
+      <td style="text-align: left">Abstrak dan Tujuan hidrokit. Dorongan untuk berkontribusi.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/berkontribusi">berkontribusi</a></td>
+      <td style="text-align: left">Informasi umum untuk memulai berkontribusi.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/berkontribusi/kode-etik">kode-etik</a></td>
+      <td style="text-align: left">Kode etik dalam proyek.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/panduan/instalasi">instalasi</a></td>
+      <td style="text-align: left">Pemasangan/instalasi paket hidrokit.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/panduan/penggunaan">penggunaan</a></td>
+      <td style="text-align: left">Penggunaan paket hidrokit.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://hidrokit.online/serbaneka/sumber">sumber</a></td>
+      <td style="text-align: left">Daftar sumber yang digunakan dalam proyek.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- LINK -->
+
+<hr />
+<h2 id="situs-hidrokit-notebook">Situs Hidrokit Notebook</h2>
+
+<p><img src="https://github.com/taruma/hidrokit-nb/blob/master/docs/assets/images/hidrokit-nb-pages.png?raw=true" class="figure-img img-fluid rounded" height="50%" width="50%" alt="Logo Hidrokit Notebook" /></p>
+
+<p class="text-center">
+<a class="m-1 btn btn-outline-primary btn-sm " href="https://taruma.github.io/hidrokit-nb">
+  Situs
+</a>
+<a class="m-1 btn btn-outline-primary btn-sm " href="https://github.com/taruma/hidrokit-nb/tree/master/docs">
+  Repository
+</a>
+</p>
+
+<p>Situs Hidrokit digunakan sebagai situs pelengkap yang berisikan kumpulan jupyter notebook mengenai penggunaan hidrokit dan pemanfaatan python dalam bidang hidrologi. Situs ini dibuat menggunakan <a href="https://jekyllrb.com/">Jekyll</a> dan <a href="https://pages.github.com/">Github Pages</a> <em>hosting</em>. <em>Repository</em> situs dapat diakses di <a href="https://github.com/taruma/hidrokit-nb/tree/master/docs">hidrokit-nb</a>.</p>
+
+<p>Berikut halaman penting yang tersedia pada situs Hidrokit Notebook:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Halaman</th>
+      <th style="text-align: left">Keterangan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/kumpulan-notebook">kumpulan-notebook</a></td>
+      <td style="text-align: left">Daftar kumpulan notebook yang telah dikategorikan dan tersedia.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/panduan/mengunggah-notebook">mengunggah-notebook</a></td>
+      <td style="text-align: left">Panduan <em>upload</em>/mengunggah notebook.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/panduan/lisensi-notebook">lisensi-notebook</a></td>
+      <td style="text-align: left">Keterangan lisensi notebook.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/panduan/pull-request">pull-request</a></td>
+      <td style="text-align: left">Panduan lanjutan untuk memperbarui repo dan melakukan <em>pull request</em> berikutnya.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/panduan/tambah-notebook">tambah-notebook</a></td>
+      <td style="text-align: left">Panduan menambah notebook ke halaman <a href="https://notebook.hidrokit.online/kumpulan-notebook">kumpulan-notebook</a>.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><a href="https://notebook.hidrokit.online/panduan/unduh-notebook">unduh-notebook</a></td>
+      <td style="text-align: left">Panduan mengunduh notebook.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- LINK -->
+
+<hr />
+<h2 id="berkontribusi">Berkontribusi</h2>
+
+<p>Seluruh yang disebutkan pada proyek ini berupa paket python hidrokit, situs hidrokit, situs Hidrokit Notebook, situs readthedocs bersifat <em>open-source</em> sehingga Anda bisa mengajukan perubahan, berkontribusi, atau bahkan Anda bisa mengembangkannya sebagai proyek Anda sendiri. Karena seluruh proyek ini menggunakan <a href="https://choosealicense.com/licenses/mit/"><strong>MIT License</strong></a> dan <a href="https://choosealicense.com/licenses/cc-by-4.0/"><strong>CC-BY-4.0</strong></a> kecuali disebutkan secara terpisah seperti pada <a href="https://notebook.hidrokit.online/panduan/lisensi-notebook">notebook</a>.</p>
+
+<p>Panduan umum untuk berkontribusi dapat dibaca pada halaman <a href="https://hidrokit.online/berkontribusi">berkontribusi</a>.</p>
+
+<p>Proyek ini berusaha memberi wadah bagi individu yang tertarik berkontribusi di proyek open-source dari berbagai latar belakang. Seperti yang dijelaskan pada halaman <a href="https://opensource.guide/how-to-contribute/">how to contribute</a>, Anda dapat berkontribusi pada proyek selain implementasi kode. Proyek ini juga memberi kesempatan dari berbagai tingkat keahlian. Ilustrasi berkontribusi di Github:</p>
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<ul>
+  <li>Jika Anda seorang <strong><em>praktisi/akademisi di bidang hidrologi</em></strong>, Anda bisa menyampaikan ide/fitur yang cocok disertakan di proyek ini, berdiskusi tentang impelementasi pada python, dll.</li>
+  <li>Jika Anda tetarik pada pengembangan <strong><em>web</em></strong>, Anda bisa memberikan ide desain situs, menyarankan tema yang sesuai, mengembangkan tema Jekyll yang sesuai dengan proyek ini, bereksperimen dengan Jekyll dan Github Pages. Ada dua situs yaitu <a href="https://taruma.github.io/hidrokit">hidrokit</a> dan <a href="https://taruma.github.io/hidrokit-nb">hidrokit-notebook</a>, jadi ada wadah bereksperimen atau berkontribusi pada proyek ini bagi yang tertarik.</li>
+  <li>Jika Anda tertarik pada pengembangan <strong><em>python</em></strong>, Anda bisa mengevaluasi implementasi kode, menerapkan fitur, <em>refactoring</em> kode, dll.</li>
+  <li>Jika Anda tertarik pada <strong>dokumentasi</strong>, Anda bisa menyunting penulisan situs, memperbaiki penulisan agar lebih jelas, menerjemahkan, dll.</li>
+  <li>Jika Anda tertarik pada <strong>memperkenalkan/pengajaran</strong>, Anda bisa membuat tutorial dengan python/jupyter notebook dan mengunggahnya di <a href="https://taruma.github.io/hidrokit-nb">hidrokit-notebook</a>.</li>
+  <li>Jika Anda <strong>memiliki kode python</strong> yang cocok dengan proyek ini, Anda bisa menguploadnya pada github Anda dan menyarankan untuk diimplementasikan dalam proyek ini.</li>
+  <li>Jika Anda tertarik <strong>merancang</strong> logo, jangan ragu untuk menyampaikannya di proyek ini.</li>
+  <li>Jika Anda tertarik pada aspek <strong>komunitas</strong>, Anda bisa mengajak acara <em>meet-up</em> komunitas hidrokit.</li>
+  <li>Jika Anda menyukai <strong>mengorganisir</strong>, Anda bisa membantu mengorganisasikan isu/diskusi di github.</li>
+  <li>Jika Anda <strong>baru belajar</strong>/mengenal python/jupyter/proyek ini, Anda bisa bertanya, berdiskusi, dan berbagi pengalaman Anda di proyek ini.</li>
+  <li>Jika Anda <strong>memiliki pengalaman</strong> terkait proyek ini, Anda bisa berbagi pengalaman Anda.</li>
+  <li>Jika Anda <strong>hanya menggunakan</strong> proyek/situs ini, Anda juga bisa berkontribusi dengan melaporkan kerusakan/kekeliruan/koreksi.</li>
+</ul>
+
+<p>Intinya, kalau ada ide jangan dibiarkan terbang, buat isu/diskusi di github <a href="https://github.com/taruma/hidrokit/issues/new/choose">sekarang juga</a>.</p>
+
+<hr />
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+
+<p>Saya akan berusaha menjawab pertanyaan yang mungkin menjadi perhatian/pertimbangan.</p>
+
+<p><strong>Siapa dibalik proyek hidrokit?</strong></p>
+
+<blockquote>
+  <p>Proyek hidrokit dibuat dan dimulai oleh <a href="https://taruma.info">Taruma Sakti Megariansyah</a> (saya sendiri. 😁). Saya merupakan lulusan sarjana teknik sipil dari Universitas Katolik Parahyangan, Bandung angkatan 2008. Saya tidak memiliki pengalaman kerja baik di bidang hidrologi atau bidang komputer (python), jadi proyek ini akan jauh dari sempurna atau tepat sasaran. 😅.</p>
+</blockquote>
+
+<p><strong>Apakah proyek ini bagian dari tugas/kerjaan?</strong></p>
+
+<blockquote>
+  <p>Proyek hidrokit, <em>murni</em> merupakan <strong>proyek hobi</strong> dan <strong>pribadi</strong>.</p>
+
+  <p><strong>Proyek ini bukan</strong>:</p>
+  <ul>
+    <li>Bagian dari pekerjaan (yang tidak saya miliki 😉)</li>
+    <li>Untuk menyelesaikan kewajiban akademis (tugas akhir/tesis)</li>
+    <li>Permintaan dari perusahaan / konsultan / praktisi / akademisi / individu.</li>
+  </ul>
+</blockquote>
+
+<p><strong>Keuntungan apa yang segera didapatkan jika menggunakan hidrokit?</strong></p>
+
+<blockquote>
+  <p>hidrokit <strong>bukan</strong> program yang berfungsi memasukkan <em>input data</em> kemudian langsung memperoleh <em>output data</em> atau laporan. Sehingga tidak bisa “segera” diuntungkan saat beralih ke penggunaan hidrokit/python.</p>
+
+  <p>Jika Anda telah menggunakan python dan jupyter notebook pada alur kerja Anda, kemungkinan paket hidrokit bisa mempersingkat/mempercepat alur kerja tersebut. Jadi, sebelum menggunakan hidrokit, <strong>diasumsikan sudah terbiasa</strong> menggunakan python dan jupyter notebook.</p>
+
+  <p>Bagi yang belum tahu python dan jupyter notebook, proyek ini memperkenalkan keuntungan hal tersebut dan membantu Anda memulai petualangan tersebut. Saat tulisan ini dipublikasi, belum ada halaman panduannya, tapi jika Anda membutuhkan bantuan, buat isu/diskusi <a href="https://github.com/taruma/hidrokit/issues/new/choose">disini</a>.</p>
+
+  <p>Proyek ini hanya <strong>memperkenalkan</strong> python + jupyter notebook pada umumnya, dan bukan memaksakan untuk beralih dari <em>spreadsheet</em>. Pandangan pribadi saya adalah lebih praktis dan intuitif menggunakan python + jupyter notebook + hidrokit dibandingkan menggunakan <em>spreadsheet</em>.</p>
+
+  <p>Sebagai informasi, saya belum memiliki pengalaman kerja di bidang hidrologi atau <em>python/data science</em>. Jadi, saya tidak bisa menjawab dengan tepat dampak positif/negatif proyek ini.</p>
+</blockquote>
+
+<p>Anda bisa membaca FAQ lanjutannya di halaman <a href="/blog/tanya-jawab-hidrokit-0-2-0">Tanya Jawab Rilis Hidrokit 0.2.0</a>.</p>
+
+<hr />
+
+<p>Terima kasih atas perhatiannya, jika Anda memiliki pertanyaan/kritik/saran mengenai proyek ini Anda bisa membuat isu/diskusi di <a href="https://github.com/taruma/hidrokit/issues/new/choose">halaman github</a>. Anda bisa menghubungi saya melalui email di <strong>tarumainfo@gmail.com</strong> (Email hi@taruma.info sedang bermasalah) (Jika terkait proyek hidrokit, dianjurkan untuk melalui github).</p>
+
+<p>Mengakhiri tulisan ini dengan video inspiratif dari Github.</p>
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/HzZxcfVn_08" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<div align="center">
+<small class="text-muted mb-2">
+"This project is dedicated to '<i>my younger me</i>'. Good luck! ♥"
+</small>
+</div>
+
+<!-- LINK -->
+
+
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+    <small class="text-muted mb-2">
+        <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+        by <strong>taruma sakti megariansyah</strong>
+    </small>
+
+    <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:hi@taruma.info"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.instagram.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#405de6'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-instagram fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1"  href="https://medium.com/@taruma"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#00ab6c'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-medium fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.soundcloud.com/taruma-sakti"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#ff8800'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-soundcloud fa-1x"></i>
+    </a><a class="social mx-1"  href="https://open.spotify.com/user/12141012102"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1db954'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-spotify fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitch.tv/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#6441a5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitch fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitter.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1da1f2'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.youtube.com/tarumainfo"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#ff0000'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-youtube fa-1x"></i>
+    </a>
+
+</div>
+
+    <small id="attribution" class="text-muted mb-2">
+        <a href="https://youssefraafatnasry.github.io/portfolYOU">portfolYOU</a> Theme. Powered by <a
+            href="https://pages.github.com/">Github Pages</a>
+    </small>
+
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+
+</body>
+
+</html>

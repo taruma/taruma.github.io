@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"    : "Visualisasi Covid-19 di Indonesia",
+      "category" : "",
+      "tags"     : "python",
+      "url"      : "/blog/visualisasi-covid19",
+      "date"     : "2020-03-26 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Daftar kontribusi di hidrokit.contrib",
+      "category" : "",
+      "tags"     : "hidrokit",
+      "url"      : "/blog/hidrokit-contrib-taruma",
+      "date"     : "2019-12-27 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Tanya Jawab Hidrokit 0.2.0",
+      "category" : "",
+      "tags"     : "hidrokit, faq",
+      "url"      : "/blog/tanya-jawab-hidrokit-0-2-0",
+      "date"     : "2019-07-18 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Rilis hidrokit 0.2.0",
+      "category" : "",
+      "tags"     : "python, hidrokit, open-source",
+      "url"      : "/blog/rilis-hidrokit-0-2-0",
+      "date"     : "2019-07-15 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Shortcut Anaconda Prompt menghilang 😲",
+      "category" : "",
+      "tags"     : "python, anaconda, miniconda",
+      "url"      : "/blog/conda-console-shortcut",
+      "date"     : "2019-06-28 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Tanya Jawab Hidrokit 0.1.0",
+      "category" : "",
+      "tags"     : "hidrokit, faq",
+      "url"      : "/blog/tanya-jawab-hidrokit",
+      "date"     : "2019-01-09 00:00:00 +0000"
+    } 
+  
+]

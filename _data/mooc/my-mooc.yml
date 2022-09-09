@@ -559,7 +559,7 @@
     - machine learning
   author: Andrei Neagoie, Daniel Bourke, Zero To Mastery
   from: 2021-05-02
-  to: 9999-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
@@ -677,26 +677,85 @@
   author: Google & Techready  
   from: 2022-05-17
   to: 2022-08-08
-  grade: 
-  certificate_url: 
+  grade: "#31/#1004"
+  certificate_url: https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=152236035101-328
   note: 
   status: 
 
 ## Algoritma School
 
-- title: Data Science Academy Full Stack
+# - title: Data Science Academy Full Stack
+#   mooc: algoritma
+#   url: https://algorit.ma/data-science-lifetime/
+#   category:
+#     - algoritma
+#     - computer science
+#     - python
+#     - R
+#     - machine learning
+#   author: algoritma
+#   from: 2022-09-05
+#   to: 
+#   grade: 
+#   certificate_url: 
+#   note: 
+#   status: later
+
+- title: Data Analytics Specialization
   mooc: algoritma
-  url: https://algorit.ma/data-science-lifetime/
+  url: https://algorit.ma/data-analytics-specialization/
   category:
     - algoritma
     - computer science
     - python
-    - R
-    - machine learning
+    - data analysis
+    - data wrangling
+    - data visualization
+    - sql query
   author: algoritma
   from: 2022-09-05
-  to: 
+  to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Part of Academy Full Stack
+  status: now
+
+- title: Data Visualization Specialization
+  mooc: algoritma
+  url: https://algorit.ma/data-visualization-specialization/
+  category:
+    - algoritma
+    - computer science
+    - R
+    - data science
+    - practical statistics
+    - data visualization
+    - interactive plotting
+    - dynamic dashboards
+  author: algoritma
+  from: 2022-10-03
+  to: 2022-10-31
+  grade: 
+  certificate_url: 
+  note: Part of Academy Full Stack
+  status: later
+
+- title: Machine Learning Specialization
+  mooc: algoritma
+  url: https://algorit.ma/machine-learning-specialization/
+  category:
+    - algoritma
+    - computer science
+    - R
+    - machine learning
+    - regression models
+    - unsupervised learning
+    - time series & forecasting
+    - neural network & deep learning
+  author: algoritma
+  from: 2022-11-01
+  to: 2022-12-12
+  grade: 
+  certificate_url: 
+  note: Part of Academy Full Stack
   status: later

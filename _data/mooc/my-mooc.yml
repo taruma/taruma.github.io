@@ -714,7 +714,7 @@
     - sql query
   author: algoritma
   from: 2022-09-05
-  to: 9999-01-01
+  to: # 9999-01-01
   grade: 
   certificate_url: 
   note: Part of Academy Full Stack

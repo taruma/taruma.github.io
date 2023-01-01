@@ -183,6 +183,22 @@
   certificate_url: 
   note: 
 
+- title: AI For Everyone
+  mooc: Coursera
+  url: https://www.coursera.org/learn/ai-for-everyone
+  category:
+    - coursera
+    - computer science
+    - machine learning
+    - AI
+  author: DeepLearning.AI
+  from: 2022-12-31
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: 
+  status: 
+
 ## edX
 
 - title: "Data Science Research Methods: Python Edition (DAT273x)"

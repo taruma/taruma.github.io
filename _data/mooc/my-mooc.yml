@@ -183,6 +183,22 @@
   certificate_url: 
   note: 
 
+- title: AI For Everyone
+  mooc: Coursera
+  url: https://www.coursera.org/learn/ai-for-everyone
+  category:
+    - coursera
+    - computer science
+    - machine learning
+    - AI
+  author: DeepLearning.AI
+  from: 2022-12-31
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: 
+  status: 
+
 ## edX
 
 - title: "Data Science Research Methods: Python Edition (DAT273x)"
@@ -401,6 +417,102 @@
   certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/d01aeb25e93934aaab69e092374738d7ab6df64a
   note:
 
+## Kominfo
+
+- title: Machine Learning with Tensorflow
+  mooc: Kominfo
+  url: https://digitalent.kominfo.go.id/detail/pelatihan/2360
+  category:
+    - kominfo
+    - computer science
+    - python
+    - tensorflow
+    - machine learning
+  author: Google & Techready  
+  from: 2022-05-17
+  to: 2022-08-08
+  grade: "#31/#1004"
+  certificate_url: https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=152236035101-328
+  note: 
+  status: 
+
+## Algoritma School
+
+- title: Data Science Academy Full Stack
+  mooc: algoritma
+  url: https://algorit.ma/data-science-lifetime/
+  category:
+    - algoritma
+    - computer science
+    - python
+    - R
+    - machine learning
+  author: algoritma
+  from: 2022-09-05
+  to: 2022-12-12
+  grade: 140/140 (100%)
+  certificate_url: https://1drv.ms/b/s!AmxSTa4UunElh5QIV8iAGZmTT3gDsw?e=w6JiFy
+  note: Terdiri dari program <i>Data Analytics Specialization</i> (python), <i>Data Visualization Specialization</i> (R), <i>Machine Learning Specialization</i> (R).
+  status: 
+
+# - title: Data Analytics Specialization
+#   mooc: algoritma
+#   url: https://algorit.ma/data-analytics-specialization/
+#   category:
+#     - algoritma
+#     - computer science
+#     - python
+#     - data analysis
+#     - data wrangling
+#     - data visualization
+#     - sql query
+#   author: algoritma
+#   from: 2022-09-05
+#   to: 9999-01-01
+#   grade: 
+#   certificate_url: 
+#   note: Part of Academy Full Stack
+#   status: 
+
+# - title: Data Visualization Specialization
+#   mooc: algoritma
+#   url: https://algorit.ma/data-visualization-specialization/
+#   category:
+#     - algoritma
+#     - computer science
+#     - R
+#     - data science
+#     - practical statistics
+#     - data visualization
+#     - interactive plotting
+#     - dynamic dashboards
+#   author: algoritma
+#   from: 2022-10-03
+#   to: 2022-10-31
+#   grade: 
+#   certificate_url: 
+#   note: Part of Academy Full Stack
+#   status: later
+
+# - title: Machine Learning Specialization
+#   mooc: algoritma
+#   url: https://algorit.ma/machine-learning-specialization/
+#   category:
+#     - algoritma
+#     - computer science
+#     - R
+#     - machine learning
+#     - regression models
+#     - unsupervised learning
+#     - time series & forecasting
+#     - neural network & deep learning
+#   author: algoritma
+#   from: 2022-11-01
+#   to: 2022-12-12
+#   grade: 
+#   certificate_url: 
+#   note: Part of Academy Full Stack
+#   status: later
 
 ## Udemy
 
@@ -559,9 +671,9 @@
     - machine learning
   author: Andrei Neagoie, Daniel Bourke, Zero To Mastery
   from: 2021-05-02
-  to: 
+  to: 2023-01-01
   grade: 
-  certificate_url: 
+  certificate_url: https://www.udemy.com/certificate/UC-c090d4c3-ba39-4841-b83b-40ecc4585260/ 
   note: 
   status: 
 
@@ -663,99 +775,218 @@
   note: 
   status: later
 
-## Kominfo
-
-- title: Machine Learning with Tensorflow
-  mooc: Kominfo
-  url: https://digitalent.kominfo.go.id/detail/pelatihan/2360
+- title: "Advanced CSS and Sass: Flexbox, Grid, Animations and More!"
+  mooc: Udemy
+  url: https://www.udemy.com/course/advanced-css-and-sass/
   category:
-    - kominfo
+    - udemy
     - computer science
-    - python
-    - tensorflow
-    - machine learning
-  author: Google & Techready  
-  from: 2022-05-17
-  to: 2022-08-08
-  grade: "#31/#1004"
-  certificate_url: https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=152236035101-328
+    - css
+    - sass
+    - website
+  author: Jonas Schmedtmann
+  from: 2022-06-02
+  to: 
+  grade: 
+  certificate_url: 
   note: 
-  status: 
+  status: later
 
-## Algoritma School
-
-# - title: Data Science Academy Full Stack
-#   mooc: algoritma
-#   url: https://algorit.ma/data-science-lifetime/
-#   category:
-#     - algoritma
-#     - computer science
-#     - python
-#     - R
-#     - machine learning
-#   author: algoritma
-#   from: 2022-09-05
-#   to: 
-#   grade: 
-#   certificate_url: 
-#   note: 
-#   status: later
-
-- title: Data Analytics Specialization
-  mooc: algoritma
-  url: https://algorit.ma/data-analytics-specialization/
+- title: "Build Responsive Real-World Websites with HTML and CSS"
+  mooc: Udemy
+  url: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
   category:
-    - algoritma
+    - udemy
     - computer science
-    - python
-    - data analysis
-    - data wrangling
-    - data visualization
-    - sql query
-  author: algoritma
-  from: 2022-09-05
+    - html
+    - css
+    - website
+  author: Jonas Schmedtmann
+  from: 2022-06-02
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: Part of Academy Full Stack
+  note: 
   status: 
 
-- title: Data Visualization Specialization
-  mooc: algoritma
-  url: https://algorit.ma/data-visualization-specialization/
+- title: "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023"
+  mooc: Udemy
+  url: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
   category:
-    - algoritma
+    - udemy
+    - computer science
+    - node.js
+    - express
+    - mongodb
+    - web application
+  author: Jonas Schmedtmann
+  from: 2022-06-14
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "Learn Streamlit Python"
+  mooc: Udemy
+  url: https://www.udemy.com/course/learn-streamlit-python/
+  category:
+    - udemy
+    - computer science
+    - python
+    - streamlit
+    - web application
+  author: Jesse E. Agbe
+  from: 2022-06-14
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "Data science with R: tidyverse"
+  mooc: Udemy
+  url: https://www.udemy.com/course/data-science-with-r-tidyverse/
+  category:
+    - udemy
+    - computer science
+    - R
+    - tidyverse
+    - data science
+  author: Marko Intihar
+  from: 2022-09-14
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "R Programming A-Z™: R For Data Science With Real Exercises!"
+  mooc: Udemy
+  url: https://www.udemy.com/course/r-programming/
+  category:
+    - udemy
     - computer science
     - R
     - data science
-    - practical statistics
-    - data visualization
-    - interactive plotting
-    - dynamic dashboards
-  author: algoritma
-  from: 2022-10-03
-  to: 2022-10-31
+  author: Kirill Eremenko, Ligency Team
+  from: 2022-09-14
+  to: 
   grade: 
   certificate_url: 
-  note: Part of Academy Full Stack
+  note: 
   status: later
 
-- title: Machine Learning Specialization
-  mooc: algoritma
-  url: https://algorit.ma/machine-learning-specialization/
+- title: "FastAPI - The Complete Course 2023 (Beginner + Advanced)"
+  mooc: Udemy
+  url: https://www.udemy.com/course/fastapi-the-complete-course/
   category:
-    - algoritma
+    - udemy
     - computer science
-    - R
-    - machine learning
-    - regression models
-    - unsupervised learning
-    - time series & forecasting
-    - neural network & deep learning
-  author: algoritma
-  from: 2022-11-01
-  to: 2022-12-12
+    - python
+    - API
+    - website
+  author: Eric Roby
+  from: 2022-09-14
+  to: 
   grade: 
   certificate_url: 
-  note: Part of Academy Full Stack
+  note: 
   status: later
+
+- title: "Machine Learning in Python Level 1: Beginner"
+  mooc: Udemy
+  url: https://www.udemy.com/course/machine-learning-python-level-1/
+  category:
+    - udemy
+    - computer science
+    - python
+    - data science
+    - machine learning
+  author: Hadelin de Ponteves, Kirill Eremenko
+  from: 2022-11-16
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "PyTorch for Deep Learning in 2023: Zero to Mastery"
+  mooc: Udemy
+  url: https://www.udemy.com/course/pytorch-for-deep-learning/
+  category:
+    - udemy
+    - computer science
+    - python
+    - pytorch
+    - machine learning
+  author: Andrei Neagoie, Daniel Bourke, Zero To Mastery
+  from: 2022-11-19
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "Complete Machine Learning & Data Science Bootcamp 2023"
+  mooc: Udemy
+  url: https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+  category:
+    - udemy
+    - computer science
+    - python
+    - data science
+    - machine learning
+  author: Andrei Neagoie, Daniel Bourke, Zero To Mastery
+  from: 2022-11-19
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "The Python Mega Course: Learn Python in 40 Days with 20 Apps"
+  mooc: Udemy
+  url: https://www.udemy.com/course/the-python-mega-course/
+  category:
+    - udemy
+    - computer science
+    - python
+  author: Ardit Sulce
+  from: 2022-11-19
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "Python for Machine Learning & Data Science Masterclass"
+  mooc: Udemy
+  url: https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/
+  category:
+    - udemy
+    - computer science
+    - machine learning
+    - data science
+  author: Jose Portilla
+  from: 2022-11-19
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "Crash Course: Build a Full-Stack Web App in a Weekend!"
+  mooc: Udemy
+  url: https://www.udemy.com/course/full-stack-crash-course/
+  category:
+    - udemy
+    - computer science
+    - Web application
+  author: Jonas Schmedtmann
+  from: 2023-01-01
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: 
+  status: 

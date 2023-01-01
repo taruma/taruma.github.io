@@ -18,11 +18,11 @@ Berikut informasi seputar karya musik saya:
 - **Genre**: Instrumental, Electronic, Piano, Compositional Ambient, Orchestral
 - **Instrumen**: Piano
 - **Aktif**: 2005-2016
-- **Distribusi**: last.fm (2005-2010), Soundcloud (2010-2016, 2019), Spotify (2019-sekarang)
+- **Distribusi**: last.fm (2005-2010), Spotify (2019), [Soundcloud](https://soundcloud.com/taruma-sakti) (2010-2016, 2019-Sekarang) 
 
-## Music
+## Album / EP
 
-Berikut daftar karya musik berupa album/EP/single yang telah/sempat dipublikasikan melalui spotify.
+Berikut daftar karya musik berupa Album / EP yang sempat dipublikasikan melalui spotify dan sekarang tersedia melalui Soundcloud. 
 
 {% include proyek.html category="album" %}
 

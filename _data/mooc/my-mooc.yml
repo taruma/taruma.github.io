@@ -468,7 +468,7 @@
 #     - sql query
 #   author: algoritma
 #   from: 2022-09-05
-#   to: 9999-01-01
+#   to: 
 #   grade: 
 #   certificate_url: 
 #   note: Part of Academy Full Stack
@@ -803,11 +803,11 @@
     - website
   author: Jonas Schmedtmann
   from: 2022-06-02
-  to: 9999-01-01
+  to: 
   grade: 
   certificate_url: 
   note: 
-  status: 
+  status: later 
 
 - title: "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023"
   mooc: Udemy
@@ -984,9 +984,58 @@
     - computer science
     - Web application
   author: Jonas Schmedtmann
-  from: 2023-01-01
+  from: 2023-01-02
   to: 9999-01-01
   grade: 
   certificate_url: 
   note: 
   status: 
+
+- title: "Master the Coding Interview: Data Structures + Algorithms"
+  mooc: Udemy
+  url: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
+  category:
+    - udemy
+    - computer science
+    - coding interview
+    - data structures
+    - algorithms
+  author: Andrei Neagoie, Zero to Mastery
+  from: 2023-01-02
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "The Excel Bootcamp: Zero to Mastery"
+  mooc: Udemy
+  url: https://www.udemy.com/course/excel-bootcamp-zero-to-mastery/
+  category:
+    - udemy
+    - computer science
+    - microsoft excel
+  author: Andrei Neagoie, Travis Cuzick, Zero to Mastery
+  from: 2023-01-02
+  to: 
+  grade: 
+  certificate_url: 
+  note: 
+  status: later
+
+- title: "The Complete Web Developer in 2023: Zero to Mastery"
+  mooc: Udemy
+  url: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+  category:
+    - udemy
+    - computer science
+    - website
+    - web development
+  author: Andrei Neagoie, Zero to Mastery
+  from: 2023-01-02
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: 
+  status: 
+

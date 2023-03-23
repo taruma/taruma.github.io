@@ -193,11 +193,61 @@
     - AI
   author: DeepLearning.AI
   from: 2022-12-31
+  to: 2023-01-26
+  grade: 
+  certificate_url: https://www.coursera.org/account/accomplishments/certificate/HBGFRCTRV8XG
+  note: 
+  status: 
+
+- title: Linear Algebra for Machine Learning and Data Science
+  mooc: Coursera
+  url: https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science
+  category:
+    - coursera
+    - computer science
+    - machine learning
+    - AI
+    - mathematics
+    - theory
+  author: DeepLearning.AI
+  from: 2023-03-20
   to: 9999-01-01
   grade: 
   certificate_url: 
-  note: 
+  note: Specialization Mathematics for Machine Learning and Data Science
   status: 
+
+- title: "Supervised Machine Learning: Regression and Classification"
+  mooc: Coursera
+  url: https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science
+  category:
+    - coursera
+    - computer science
+    - machine learning
+    - AI
+  author: DeepLearning.AI
+  from: 2023-03-20
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: Specialization Machine Learning
+  status: 
+
+- title: "Advanced Learning Algorithms"
+  mooc: Coursera
+  url: https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
+  category:
+    - coursera
+    - computer science
+    - machine learning
+    - AI
+  author: DeepLearning.AI
+  from: 2023-03-20
+  to: 9999-01-01
+  grade: 
+  certificate_url: 
+  note: Specialization Machine Learning
+  status: later
 
 ## edX
 
@@ -626,7 +676,7 @@
   grade: 
   certificate_url: 
   note: 
-  status: 
+  status: later
 
 - title: "Machine Learning Practical Workout | 8 Real-World Projects"
   mooc: Udemy
@@ -989,7 +1039,7 @@
   grade: 
   certificate_url: 
   note: 
-  status: 
+  status: later
 
 - title: "Master the Coding Interview: Data Structures + Algorithms"
   mooc: Udemy
